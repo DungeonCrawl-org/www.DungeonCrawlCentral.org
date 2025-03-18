@@ -101,7 +101,7 @@ if ($active) :
 
 
 <?php else : // no active challenge
-	echo "<h2 style="color:rgb(69, 136, 5);">Welcome to the <b>Crawl Cosplay Trunk Tournament</b> (CCFT)</h2>";
+	echo '<h2 style="color:rgb(69, 136, 5);">Welcome to the <b>Crawl Cosplay Trunk Tournament</b> (CCFT)</h2>';
 	echo '<!-- <p><a href="/ccft/past_ccft_results.html">Past CCFTournaments Results</a>.</p> -->';
   echo '<h4>Next Tournament</h4>';
   echo '<p>Expected in early June 2025.</p>';
