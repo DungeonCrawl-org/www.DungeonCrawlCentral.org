@@ -3,7 +3,7 @@ use app\models\{Challenge, Submission, Player};
 
 $this->layout = 'cctt';
 
-$active = Challenge::tournamentActive();
+$active = Challenge::ccttActive();
 if ($active) :
  	$set = $active->setnr;
 	$scores = Player::scoreboardForSet($set);
