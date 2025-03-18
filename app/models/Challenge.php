@@ -56,6 +56,18 @@ class Challenge extends BaseModel
             return null;
         }
     }
+    
+    public static function ccftActive(): ?Challenge
+    {
+        $query = "SELECT * FROM `challenges` WHERE `active` = 1 AND `draft` = 0 AND `setnr` < 0 ORDER BY `setnr` DESC, `week` DESC LIMIT 1;";
+        $result = static::db()->query($query);
+        if ($result) {
+            $data = array_pop($result);
+            return new Challenge($data);
+        } else {
+            return null;
+        }
+    }
 
     public static function deactivateAll(): bool
     {
