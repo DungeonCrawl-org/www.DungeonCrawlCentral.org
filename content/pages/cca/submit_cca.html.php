@@ -12,7 +12,7 @@ if ($id) {
     $cha = Challenge::active();
 }
 if (!$cha) {
-    $cha = Challenge::tournamentActive();
+    $cha = Challenge::ccttActive();
 }
 
 if ($cha && $cha->setnr > 30) {
