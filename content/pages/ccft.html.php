@@ -105,7 +105,7 @@ if ($active) :
   echo '<h4>Next Tournament</h4>';
   echo '<p>Expected in early June 2025.</p>';
   echo '<h2>General Rules, Scoring and Credits</h2>';
-  echo 'See the <a href="about_ccft.html">CCFT About page</a>.';
+  echo 'See the <a href="/ccft/about_ccft.html">CCFT About page</a>.';
 	echo "<br>";
 endif;
 ?>
