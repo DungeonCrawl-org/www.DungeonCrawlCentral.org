@@ -45,7 +45,7 @@ class Challenge extends BaseModel
         }
     }
 
-    public static function tournamentActive(): ?Challenge
+    public static function ccttActive(): ?Challenge
     {
         $query = "SELECT * FROM `challenges` WHERE `active` = 1 AND `draft` = 0 AND `setnr` >= 32 ORDER BY `setnr` DESC, `week` DESC LIMIT 1;";
         $result = static::db()->query($query);
