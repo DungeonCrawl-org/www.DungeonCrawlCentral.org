@@ -1,7 +1,7 @@
 <?php $this->layout = 'ccft'; ?>
 <?php
 use app\models\{Challenge, Submission, Player};
-$active = Challenge::active();
+$active = Challenge::ccftActive();
 if ($active) :
 	$set = $active->setnr;
 	$scores = Player::scoreboardForSet($set);
@@ -9,15 +9,14 @@ if ($active) :
 	$weeks = sizeof($challenges_in_set);
 	$this->setData("meta", ['filename' => $active->icon]);
 ?>
-<h2>
-	Challenge Set <?=$e($active->setnr)?> Week <?=$e($active->week)?>: <a href="/ccc/challengedetails?id=<?=$e($active->id)?>"><?=$e($active->name)?></a>
+<h2>CCFT#<?=$e($active->setnr)?> Week <?=$e($active->week)?>: <a href="/ccft/fchallengedetails?id=<?=$e($active->id)?>"><?=$e($active->name)?></a>
 	<?php if ($active->icon): ?><img src="<?=$e($active->icon)?>" class="head-icon" height="30px" /> <?php endif; ?>
 </h2>
 <p style="font-style: italic; color: #777;"><?=$e($active->description)?></p>
 <!-- shortform field is used for Monster Speak -->
 <p style="text-align:right;"><span style="font-size: smaller"><?=$e($active->shortform)?></span></p>
 
-<p><a href="/ccc/challengedetails?id=<?=$e($active->id)?>">Challenge details</a>  | <a href="/ccc/submit_ccc">Submit a CCC run</a> | <a href="https://discord.gg/pW7nqC8Wu3">Discuss it in CCC's Discord</a> | Next challenge starts on Monday.</p>
+<p><a href="/ccft/fchallengedetails?id=<?=$e($active->id)?>">Challenge details</a>  | <a href="/ccc/submit_ccc">Submit a CCFT run</a> | <a href="https://discord.gg/pW7nqC8Wu3">Discuss it in CCC's Discord</a> | Next challenge starts on Monday.</p>
 <table class="table_for_layout">
 	<tr><th>Species</th><th>Background<th>Gods</th></tr>
 	<tr><td><?=$e($active->species)?></td><td><?=$e($active->background)?></td><td><?=$e($active->gods)?></td></tr>
@@ -101,7 +100,7 @@ if ($active) :
 
 
 <?php else : // no active challenge
-	echo '<h2 style="color:rgb(69, 136, 5);">Welcome to the <b>Crawl Cosplay Trunk Tournament</b> (CCFT)</h2>';
+	echo '<h2 style="color:rgb(69, 136, 5);">Welcome to the <b>Crawl Cosplay Forks Tournament</b> (CCFT)</h2>';
 	echo '<!-- <p><a href="/ccft/past_ccft_results.html">Past CCFTournaments Results</a>.</p> -->';
   echo '<h4>Next Tournament</h4>';
   echo '<p>Expected in early June 2025.</p>';
