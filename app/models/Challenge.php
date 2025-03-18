@@ -35,7 +35,7 @@ class Challenge extends BaseModel
 
     public static function active(): ?Challenge
     {
-        $query = "SELECT * FROM `challenges` WHERE `active` = 1 AND `draft` = 0 AND `setnr` < 32 ORDER BY `setnr` DESC, `week` DESC LIMIT 1;";
+        $query = "SELECT * FROM `challenges` WHERE `active` = 1 AND `draft` = 0 AND `setnr` > 0 AND `setnr` < 32 ORDER BY `setnr` DESC, `week` DESC LIMIT 1;";
         $result = static::db()->query($query);
         if ($result) {
             $data = array_pop($result);
