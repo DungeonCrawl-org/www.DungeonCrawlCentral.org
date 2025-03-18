@@ -9,14 +9,14 @@ if ($active) :
 	$weeks = sizeof($challenges_in_set);
 	$this->setData("meta", ['filename' => $active->icon]);
 ?>
-<h2>CCFT#<?=$e($active->setnr)?> Week <?=$e($active->week)?>: <a href="/ccft/fchallengedetails?id=<?=$e($active->id)?>"><?=$e($active->name)?></a>
+<h2>CCFT#<?=abs($e($active->setnr))?> Week <?=$e($active->week)?>: <a href="/ccft/fchallengedetails?id=<?=$e($active->id)?>"><?=$e($active->name)?></a>
 	<?php if ($active->icon): ?><img src="<?=$e($active->icon)?>" class="head-icon" height="30px" /> <?php endif; ?>
 </h2>
 <p style="font-style: italic; color: #777;"><?=$e($active->description)?></p>
 <!-- shortform field is used for Monster Speak -->
 <p style="text-align:right;"><span style="font-size: smaller"><?=$e($active->shortform)?></span></p>
 
-<p><a href="/ccft/fchallengedetails?id=<?=$e($active->id)?>">Challenge details</a>  | <a href="/ccc/submit_ccc">Submit a CCFT run</a> | <a href="https://discord.gg/pW7nqC8Wu3">Discuss it in CCC's Discord</a> | Next challenge starts on Monday.</p>
+<p><a href="/ccft/fchallengedetails?id=<?=$e($active->id)?>">Challenge details</a>  | <a href="/ccft/submit_ccft">Submit a CCFT run</a> | <a href="https://discord.gg/pW7nqC8Wu3">Discuss it in CCC's Discord</a> | Next challenge starts on Monday.</p>
 <table class="table_for_layout">
 	<tr><th>Species</th><th>Background<th>Gods</th></tr>
 	<tr><td><?=$e($active->species)?></td><td><?=$e($active->background)?></td><td><?=$e($active->gods)?></td></tr>
@@ -30,7 +30,7 @@ if ($active) :
 <!-- disable video news bar for now
 <!-- ?php echo $this->part('latest_twitch'); ?> -->
 
-<h2>Scoreboard for CCFT#<?=$e($active->setnr)?></h2>
+<h2>Scoreboard for CCFT#<?=abs($e($active->setnr))?></h2>
 <table class="set-list">
 <?php
 	$made_seperator = false;
