@@ -104,7 +104,7 @@ if ($active) :
 	echo "<h2>There is currently no active challenge for the weekly Crawl Cosplay Challenge (CCC) series.</h2>";
 	echo '<p>For your info, you can still submit a run/morgue for <a href="https://cosplay.kelbi.org/ccc/all_ccc_history">any CCC challenge</a>.</p>';
 
-	$tournament_challenge = Challenge::tournamentActive();
+	$tournament_challenge = Challenge::ccttActive();
 	if ($tournament_challenge) {
 		echo '<p>There is an active tournament right now you can participate in! <a href="/cctt/cctt">Go there now!</a>';
   	}
