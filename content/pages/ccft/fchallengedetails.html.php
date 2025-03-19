@@ -27,7 +27,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 ?>
 <div class="challenge">
 
-<h2>Forks Tournament #<?=abs($e($cha->setnr))?> Week <?=$e($cha->week)?> : <?=$e($cha->name)?></h2>
+<h2>CCFT #<?=abs($e($cha->setnr))?> Week <?=$e($cha->week)?> : <?=$e($cha->name)?></h2>
 <p style="font-style: italic; color: #777;"><?=$e($cha->description)?></p>
 <!-- shortform field is used for Monster Speak -->
 <p style="text-align:right;"><span style="font-size: smaller"><?=$e($cha->shortform)?></span></p>
