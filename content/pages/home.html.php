@@ -8,7 +8,7 @@
     echo '<h2>Welcome to the <b>Crawl Cosplay</b> 5-in-1 website!</h2>';
     echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
 ?>
-<p><a href="https://crawl.develz.org/" target="_blank"><?php _("Dungeon Crawl: Stone Soup")?></a> (DCSS)?> <?php _("is the game")</p>!
+<p><a href="https://crawl.develz.org/" target="_blank"><?php _("Dungeon Crawl: Stone Soup")?></a> (DCSS)?> <?php _("is the game")?></p>!
 
 <?php _("Select your pleasure among the following options")?>:
 
