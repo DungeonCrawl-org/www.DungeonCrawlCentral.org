@@ -34,7 +34,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 
 <p>
 	<?php if ($cha->active) : ?>
-		<a href="/ccft/submit_ccft">Submit a CCFT run</a>
+		<a href="/ccft/submit_ccft?id=<?=$cha->id?>">Submit a CCFT run</a>
 	<?php else: ?>
 		Submission Closed
 	<?php endif;?>
