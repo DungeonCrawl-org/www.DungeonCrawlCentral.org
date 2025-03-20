@@ -1,16 +1,17 @@
-<?php 
-    $dir_path = "img/titles";
-    $files = scandir($dir_path);
-    $count = count($files);
-    $index = rand(2, ($count-1));
-    $filename = $files[$index];
-    echo "<h2>" . _("Welcome to the") . " <b>" . _("Crawl Cosplay") . "</b>" . _(" 5-in 1 website!") . "</h2>";
-    echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
+<?php
+	$dir_path = "img/titles";
+	$files = scandir($dir_path);
+	$count = count($files);
+	$index = rand(2, ($count-1));
+	$filename = $files[$index];
 
-    echo '<h3><a href="https://crawl.develz.org/" target="_blank">' . _("Dungeon Crawl: Stone Soup") . "</a> (DCSS) " . _("is the game!") . "</h3>";
+	echo "<h2>" . _("Welcome to the") . " <b>" . _("Crawl Cosplay") . "</b>" . _(" 5-in 1 website!") . "</h2>";
+	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
+
+	echo '<h3><a href="https://crawl.develz.org/" target="_blank">' . _("Dungeon Crawl: Stone Soup") . "</a> (DCSS) " . _("is the game!") . "</h3>";
+
+	echo _("Select your pleasure among the following options") . ":";
 ?>
-<?php _("Select your pleasure among the following options")?>:
-
 <h3><a href="/cca"><?php _("Crawl Cosplay Academy")?></a> (<?php _("CCA")?>)</h3>
 <ul><li>For those new to DCSS or who haven't yet won a couple of times.</li>
     <li>Read <a href="/cca/about_cca">About CCA</a></li></ul>
