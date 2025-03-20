@@ -7,7 +7,7 @@
     echo "<h2>" . _("Welcome to the") . " <b>" . _("Crawl Cosplay") . "</b>" . _(" 5-in 1 website!") . "</h2>";
     echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
 
-    echo '<p><a href="https://crawl.develz.org/" target="_blank">' . _("Dungeon Crawl: Stone Soup") . "</a> (DCSS)" . _("is the game")?> ."</p>!";
+    echo '<h4><a href="https://crawl.develz.org/" target="_blank">' . _("Dungeon Crawl: Stone Soup") . "</a> (DCSS)" . _("is the game!")?> ."</h4>";
 ?>
 <?php _("Select your pleasure among the following options")?>:
 
