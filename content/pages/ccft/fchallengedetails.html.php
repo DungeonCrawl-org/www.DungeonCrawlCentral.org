@@ -40,7 +40,7 @@ $this->setData("meta", ['filename' => $cha->icon]);
 	<?php endif;?>
 	<?php if ($cha->wiki): ?> |
 	<a href="<?=$e($cha->wiki)?>" target="_blank">Wiki page</a><?php endif; ?>
-	| <a href="<?=$e($cha->reddit)?>" target="_blank">Fork's details</a>
+	| <a href="<?=$e($cha->reddit)?>">Fork's details</a>
 </p>
 
 <?php if ($cha->icon) : ?><img src="<?=$e($cha->icon)?>" class="detail" /><?php endif; ?>
