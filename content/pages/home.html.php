@@ -8,11 +8,11 @@
     echo '<h2>Welcome to the <b>Crawl Cosplay</b> 5-in-1 website!</h2>';
     echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
 ?>
-<p><a href="https://crawl.develz.org/" target="_blank">Dungeon Crawl: Stone Soup</a> (DCSS) is the game!</p>
+<p><a href="https://crawl.develz.org/" target="_blank"><?php _("Dungeon Crawl: Stone Soup")?></a> <?php _"(\(DCSS\)")?> <?php _("is the game")</p>!
 
-Select your pleasure among the following options:
+<?php _("Select your pleasure among the following options")?>:
 
-<h3><a href="/cca">Crawl Cosplay Academy</a> (CCA)</h3>
+<h3><a href="/cca"><?php _("Crawl Cosplay Academy")</a> (<?php _("CCA")?>)</h3>
 <ul><li>For those new to DCSS or who haven't yet won a couple of times.</li>
     <li>Read <a href="/cca/about_cca">About CCA</a></li></ul>
 
