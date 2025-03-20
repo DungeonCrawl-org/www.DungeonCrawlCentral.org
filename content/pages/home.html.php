@@ -9,7 +9,7 @@
 	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
 
 	echo '<h3><a href="https://crawl.develz.org/" target="_blank">' . _("Dungeon Crawl: Stone Soup") . "</a> (DCSS) " . _("is the game!") . "</h3>";
-	echo  '<ul><li><a href="https://crawl.develz.org/play.htm" target="_blank">' . _("Play online") . "</a></li></ul>";
+	echo  '<ul><li><a href="https://crawl.develz.org/play.htm" target="_blank">' . _("Play online") . "</a></li>";
 	echo      '<li><a href="https://crawl.develz.org/download.htm" target="_blank">' . _("Download the offline version") . "</a></li></ul>";
 
 	echo "<br><p>" . _("Please select your Crawl Cosplay pleasure among the following options") . ":";
