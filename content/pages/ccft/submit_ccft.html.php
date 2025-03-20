@@ -42,7 +42,9 @@ if ($data = $this->request->getPostData()) {
     $data['late'] = $cha->active == 1 ? 0 : 1;
     $sub = new app\models\Submission($data);
     if ($sub->save()) {
-        Submission::sendToModeration(['challenge_id' => $cha->id, 'player_id' => $data['player_id']]);
+        $player_id = null;
+        if (isset($data['player_id'])) $player_id = $data['player_id'];
+        Submission::sendToModeration(['challenge_id' => $cha->id, 'player_id' => $player_id]);
         $this->request->session()->set('message', 'Run submitted for scoring and moderation. Thank you!');
         return $this->request->redirect('/ccft');
     }
