@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-03-19 23:44-0400\n"
+"PO-Revision-Date: 2025-03-19 23:45-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: home.html.php\n"
+
+#: home.html.php:11
+msgid "Dungeon Crawl: Stone Soup"
+msgstr "parlay"
+
+#: home.html.php:11
+msgid "is the game"
+msgstr "cest vu play"
+
+#: home.html.php:13
+msgid "Select your pleasure among the following options"
+msgstr ""
+
+#: home.html.php:15
+msgid "Crawl Cosplay Academy"
+msgstr ""
+
+#: home.html.php:15
+msgid "CCA"
+msgstr ""
