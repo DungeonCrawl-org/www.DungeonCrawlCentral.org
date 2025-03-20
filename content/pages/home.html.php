@@ -12,7 +12,7 @@
 
 <?php _("Select your pleasure among the following options")?>:
 
-<h3><a href="/cca"><?php _("Crawl Cosplay Academy")</a> (<?php _("CCA")?>)</h3>
+<h3><a href="/cca"><?php _("Crawl Cosplay Academy")?></a> (<?php _("CCA")?>)</h3>
 <ul><li>For those new to DCSS or who haven't yet won a couple of times.</li>
     <li>Read <a href="/cca/about_cca">About CCA</a></li></ul>
 
