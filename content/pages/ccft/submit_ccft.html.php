@@ -44,7 +44,7 @@ if ($data = $this->request->getPostData()) {
     if ($sub->save()) {
         Submission::sendToModeration(['challenge_id' => $cha->id, 'player_id' => $data['player_id']]);
         $this->request->session()->set('message', 'Run submitted for scoring and moderation. Thank you!');
-        return $this->request->redirect('/');
+        return $this->request->redirect('/ccft');
     }
 }
 
