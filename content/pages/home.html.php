@@ -4,7 +4,7 @@
     $count = count($files);
     $index = rand(2, ($count-1));
     $filename = $files[$index];
-    echo "<h2>" . _("Welcome to the") . " <b>" . _("Crawl Cosplay") . "</b>" . _("5-in 1 website!") . "</h2>";
+    echo "<h2>" . _("Welcome to the") . " <b>" . _("Crawl Cosplay") . "</b>" . _(" 5-in 1 website!") . "</h2>";
     echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
 ?>
 <p><a href="https://crawl.develz.org/" target="_blank"><?php _("Dungeon Crawl: Stone Soup")?></a> (DCSS) <?php _("is the game")?></p>!
