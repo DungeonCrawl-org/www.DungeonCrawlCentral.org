@@ -10,7 +10,7 @@
 
 	echo '<h3><a href="https://crawl.develz.org/" target="_blank">' . _("Dungeon Crawl: Stone Soup") . "</a> (DCSS) " . _("is the game!") . "</h3>";
 
-	echo "<p>" . _("Select your pleasure among the following options") . ":";
+	echo "<br><p>" . _("Select your pleasure among the following options") . ":";
 ?>
 <h3><a href="/cca"><?php _("Crawl Cosplay Academy")?></a> (<?php _("CCA")?>)</h3>
 <ul><li>For those new to DCSS or who haven't yet won a couple of times.</li>
