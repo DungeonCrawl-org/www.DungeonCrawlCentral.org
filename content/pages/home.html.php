@@ -13,15 +13,15 @@
 	echo      '<li><a href="https://crawl.develz.org/download.htm" target="_blank">' . _("Download the offline version") . "</a>.</li></ul>";
 
 	echo "<br><p>" . _("Please select your Crawl Cosplay pleasure among the following options") . ":";
-	echo '<h3><a href="/cca">' . _("Crawl Cosplay Academy") . "</a> (" . _("CCA") . ")</h3>";
+	echo '<h3><a href="/cca">' . _("Crawl Cosplay Academy") . "</a> (CCA)</h3>";
 	echo "<ul><li>" . _("For those new to DCSS or who haven't yet won a couple of times.") . "</li>";
 	echo     "<li>" . _("Read") . ' <a href="/cca/about_cca">' . _("About CCA") . "</a></li></ul>";
-?>
-<h3><a href="/ccc">Crawl Cosplay Challenges</a> (CCC)</h3>
+
+	echo '<h3><a href="/ccc"> . _("Crawl Cosplay Challenges") . "</a> (CCC)"</h3>
 <ul><li>The original weekly challenge posted on Reddit since 2019!</li>
     <li>Read <a href="/ccc/about_ccc">About CCC</a>.</li>
     <li>See: <a href="/ccc/all_ccc_history">All CCChallenges</a></li></ul>
-
+?>
 <h3><a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
 <ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
     <li>CCTT #2 started Friday Feb 21st, 2025 at 00:00 UTC and runs until March 28th.</li>
