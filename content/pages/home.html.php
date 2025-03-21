@@ -27,12 +27,12 @@
     	echo     "<li>" . _("CCTT #2 started Friday Feb 21st, 2025 at 00:00 UTC and runs until the end of March 27th UTC.") . "</li>";
     	echo     "<li>" . _("Read") . ': <a href="/cctt/about_cctt">' . _("About CCTT") . "</a>.</li>";
     	echo 	 '<li><a href="/cctt/past_cctt_results">' . _("Past CCTT Results") . "</a></li></ul>";
-?>
-<h3><a href="/ccsdt">Crawl Cosplay Sudden Death Tournament</a> (CCSDT)</h3>
-<ul><li>A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!</li>
-    <li>Next CCSDT for v0.33 in mid 2025.</li>
-    <li>Read <a href="/ccsdt/about_ccsdt">About CCSDT</a>.</li></ul>
 
+	echo '<h3><a href="/ccsdt">' . _("Crawl Cosplay Sudden Death Tournament") . "</a> (CCSDT)</h3>";
+	echo "<ul><li>" . _("A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!") . "</li>";
+	echo     "<li>" . _("Next CCSDT for v0.33 in mid 2025.") . "</li>";
+	echo     "<li>" . _("Read") . ': <a href="/ccsdt/about_ccsdt">' . _("About CCSDT") . "</a>.</li></ul>";
+?>
 <h3><a href="/ccft">Crawl Cosplay Fork Tournament</a> (CCFT) NEW!</h3>
 <ul><li>A tournament lasting about a 4-5 weeks with each week highlighting a different DCSS Fork.</li>
     <li>The first ever CCFT will likely start on May 30th, 2025.
