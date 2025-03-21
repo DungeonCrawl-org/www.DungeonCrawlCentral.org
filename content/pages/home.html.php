@@ -36,7 +36,7 @@
 	echo '<h3><a href="/ccft">' . _("Crawl Cosplay Fork Tournament") . "</a> (CCFT) " . _("NEW!") . "</h3>";
 	echo "<ul><li>" . _("A tournament lasting about a 4-5 weeks with each week highlighting a different DCSS Fork.") . "</li>";
 	echo     "<li>" . _("The first ever CCFT will likely start on May 30th, 2025.");
-	echo     "<li>" . _("Read a draft of" . ' <a href="/ccft/about_ccft">' . _("About CCFT") . "</a>.</li></ul>";
+	echo     "<li>" . _("Read a draft of") . ' <a href="/ccft/about_ccft">' . _("About CCFT") . "</a>.</li></ul>";
 ?>
 	
 <h2>Watch a video about the Crawl Cosplay website</h2>
