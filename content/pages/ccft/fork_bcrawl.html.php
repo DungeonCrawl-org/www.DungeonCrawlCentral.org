@@ -10,7 +10,7 @@
 <ul><li><a href="https://crawl.nemelex.cards/" target="_blank">CNC in South Korea</a></li>
     <li><a href="http://cco.crawlcosplay.org/" target="_blank">CCO Toronto</a></li>
     <li><a href="https://crawl.yiuf.org/" target="_blank">CYO in Seattle</a></li>
-    <li><a href="https://underhound.eu:8080//" target="_blank">CUE in Germany</a></li>
+    <li><a href="https://underhound.eu:8080/" target="_blank">CUE in Germany</a></li>
 </ul>
 
 <p>Join the <a href="https://discord.gg/PR2na4pATB" target="_blank">bcrawl discord server<img src="/img/discord_transparent_border.png" width="18" height="18"></a></p>
