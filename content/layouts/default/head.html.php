@@ -1,8 +1,6 @@
 <!DOCTYPE html>
-<?php
-	putenv('LC_ALL=fr'); // fr = french
-	setlocale(LC_ALL, 'fr'); // fr = french
-?>
+<?php echo $this->part('head_localisation'); ?>
+
 
 <html lang="en">
   <head>
