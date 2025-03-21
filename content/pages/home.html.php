@@ -47,14 +47,14 @@
 	           . ' <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">'
 		   . _("Discord server") . '<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> '
 		   . _("with over 125 members!") . "</p>";
-?>
 	
-<h2>Crawl Cosplay Streamers</h2>
-<p>Our Crawl Cosplay YouTube channel <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> is a repertoire of
-	short video extracts that have links to the full video or playlist.</p>
+	echo "<h2>" . _("Crawl Cosplay Streamers") . "</h2>";
+	echo "<p>"  . _("Our Crawl Cosplay YouTube channel")
+		    . ' <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> ' 
+		    . _("is a repertoire of short video extracts that have links to the full video or playlist.") . "</p>";
 
-<p>See the <a href="/cc_streamers"><b>All Crawl Cosplay Streamers</b></a>' 
-   webpage for info on current streamers and other past streamers as well as links to their CC playlists.</p>
-<p>Happy Crawling,</p>
-<p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
-<br>
+	echo "<p>"  . _("See the") . ' <a href="/cc_streamers"><b>' . _("Crawl Cosplay Streamers") . "</b></a>'"  
+		    . _("webpage for info on current and past streamers as well as links to their CC playlists.") . "</p>";
+	echo "<p>" . _("Happy Crawling,") . "</p>";
+	echo "<p>" . _("from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is.") . " :-D</p>";
+?>
