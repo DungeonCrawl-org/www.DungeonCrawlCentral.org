@@ -49,26 +49,12 @@
 		   . _("with over 125 members!") . "</p>";
 ?>
 	
-<h2>Active Crawl Cosplay Streamers</h2>
+<h2>Crawl Cosplay Streamers</h2>
 <p>Our Crawl Cosplay YouTube channel <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> is a repertoire of
-	short videos and shorts that have links in the Comments to the full video or playlist for that Crawl Cosplay streamer(s)/topic.</p>
-<p>Here is a list of currently active CC streamers:</p>
-<ul>
-	<li><b>particleface</b>: CCA & CCTT 	on <a href="https://www.twitch.tv/particleface" target="_blank">www.twitch.tv/particleface</a>
-						&  <a href="https://www.youtube.com/@particleface" target="_blank">www.youtube.com/@particleface</a></li>
-	<li><b>Dumalacath</b>: CCA, CCC & CCTT 	on <a href="https://www.youtube.com/@dumalacath" target="_blank">www.youtube.com/@dumalacath</a></li>
-	<li><b>Arcadio</b> (in french): CCTT 	on <a href="https://www.twitch.tv/arcadiorl" target="_blank">www.twitch.tv/arcadiorl</a>
-						&  <a href="https://www.youtube.com/@arcadiorl" target="_blank">www.youtube.com/@arcadiorl</a></li>
-	<li><b>Chadlywick</b>: CCA		on <a href="https://www.twitch.tv/chadlywick" target="_blank">www.twitch.tv/chadlywick</a>
-						&  <a href="https://www.youtube.com/@Chadlywick" target="_blank">www.youtube.com/@Chadlywick</a></li>
-</ul>
-<p>and the one and only:</p>
-<ul>	<li><b>MalcolmRose</b>: CCC & CCTT 	on <a href="https://www.twitch.tv/malcolmrosegaming" target="_blank">www.twitch.tv/malcolmrosegaming</a>
-						&  <a href="https://www.youtube.com/@MalcolmRoseGaming" target="_blank">www.youtube.com/@MalcolmRoseGaming</a></li>
-</ul>
-<p>Please <b>Follow</b> / <b>Subscribe</b> to these streamers' channels, and <b>Like</b> their videos; it motivates them to make more great Crawl Cosplay content!</p>
+	short video extracts that have links to the full video or playlist.</p>
 
-<p>See the <a href="/cc_streamers"><b>All Crawl Cosplay Streamers</b></a>' webpage for more info on them and other past streamers as well as links to their CC playlists.</p>
+<p>See the <a href="/cc_streamers"><b>All Crawl Cosplay Streamers</b></a>' 
+   webpage for info on current streamers and other past streamers as well as links to their CC playlists.</p>
 <p>Happy Crawling,</p>
 <p>from RoGGa your host, our webdev team, and the @VIPs members who all help make this site what it is. :-D</p>
 <br>
