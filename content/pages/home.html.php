@@ -19,7 +19,7 @@
 
 	echo '<h3><a href="/ccc">' . _("Crawl Cosplay Challenges") . "</a> (CCC)</h3>";
 	echo "<ul><li>" . _("The original weekly challenge posted on Reddit since 2019!") . "</li>";
-    	echo     "<li>" . _("Read") . '<a href="/ccc/about_ccc">' . _("About CCC") . "</a>.</li>";
+    	echo     "<li>" . _("Read") . ': <a href="/ccc/about_ccc">' . _("About CCC") . "</a>.</li>";
     	echo     "<li>" . _("See") . ': <a href="/ccc/all_ccc_history">' . _("all ~100 challenges") . "</a></li></ul>";
 ?>
 <h3><a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
