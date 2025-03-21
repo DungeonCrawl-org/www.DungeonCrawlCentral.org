@@ -17,7 +17,7 @@
 	echo "<ul><li>" . _("For those new to DCSS or who haven't yet won a couple of times.") . "</li>";
 	echo     "<li>" . _("Read") . ' <a href="/cca/about_cca">' . _("About CCA") . "</a></li></ul>";
 
-	echo '<h3><a href="/ccc"> . _("Crawl Cosplay Challenges") . "</a> (CCC)</h3>";
+	echo '<h3><a href="/ccc">' . _("Crawl Cosplay Challenges") . "</a> (CCC)</h3>";
 	echo "<ul><li>" . _("The original weekly challenge posted on Reddit since 2019!") . "</li>";
     	echo     "<li>" . _("Read") . '<a href="/ccc/about_ccc">' . _("About CCC") . "</a>.</li>";
     	echo     "<li>" . _("See") . ': <a href="/ccc/all_ccc_history">' . _("all ~100 challenges") . "</a></li></ul>";
