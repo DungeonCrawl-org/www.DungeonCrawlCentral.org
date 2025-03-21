@@ -1,3 +1,5 @@
+putenv('LC_ALL=fr'); // fr = french
+setlocale(LC_ALL, 'fr'); // fr = french
 <?php
 	$dir_path = "img/titles";
 	$files = scandir($dir_path);
