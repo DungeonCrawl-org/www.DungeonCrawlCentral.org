@@ -20,15 +20,14 @@
 	echo '<h3><a href="/ccc">' . _("Crawl Cosplay Challenges") . "</a> (CCC)</h3>";
 	echo "<ul><li>" . _("The original weekly challenge posted on Reddit since 2019!") . "</li>";
     	echo     "<li>" . _("Read") . ': <a href="/ccc/about_ccc">' . _("About CCC") . "</a>.</li>";
-    	echo     "<li>" . _("See") . ': <a href="/ccc/all_ccc_history">' . _("all ~100 challenges") . "</a></li></ul>";
-?>
-<h3><a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT)</h3>
-<ul><li>A tournament lasting about a month with each week highlighting some of the latest Trunk changes.</li>
-    <li>CCTT #2 started Friday Feb 21st, 2025 at 00:00 UTC and runs until March 28th.</li>
-    <li>Read <a href="/cctt/about_cctt">About CCTT</a>.</li>
-	<li><a href="/cctt/past_cctt_results">Past CCTT Results</a></li>
-</ul>
+    	echo     "<li>" . _("See") . ': <a href="/ccc/all_ccc_history">' . _("all 100+ challenges") . "</a></li></ul>";
 
+    	echo '<h3><a href="/cctt">' . _("Crawl Cosplay Trunk Tournament") . "</a> (CCTT)</h3>";
+    	echo "<ul><li>" . _("A tournament lasting about a month with each week highlighting some of the latest Trunk changes.") . "</li>";
+    	echo     "<li>" . _("CCTT #2 started Friday Feb 21st, 2025 at 00:00 UTC and runs until March 28th.") . "</li>";
+    	echo     "<li>" . _("Read") . ': <a href="/cctt/about_cctt">' . _("About CCTT") . "</a>.</li>";
+    	echo 	 '<li><a href="/cctt/past_cctt_results">' . _("Past CCTT Results") . "</a></li></ul>";
+?>
 <h3><a href="/ccsdt">Crawl Cosplay Sudden Death Tournament</a> (CCSDT)</h3>
 <ul><li>A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!</li>
     <li>Next CCSDT for v0.33 in mid 2025.</li>
