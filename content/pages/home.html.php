@@ -32,13 +32,13 @@
 	echo "<ul><li>" . _("A tournament lasting 5 weeks with a different Crawl Unique combo to play each week. You only get one try!") . "</li>";
 	echo     "<li>" . _("Next CCSDT for v0.33 in mid 2025.") . "</li>";
 	echo     "<li>" . _("Read") . ': <a href="/ccsdt/about_ccsdt">' . _("About CCSDT") . "</a>.</li></ul>";
-?>
-<h3><a href="/ccft">Crawl Cosplay Fork Tournament</a> (CCFT) NEW!</h3>
-<ul><li>A tournament lasting about a 4-5 weeks with each week highlighting a different DCSS Fork.</li>
-    <li>The first ever CCFT will likely start on May 30th, 2025.
-    <li>Read a draft of <a href="/ccft/about_ccft">About CCFT</a>.</li>
-</ul>
 
+	echo '<h3><a href="/ccft">' . _("Crawl Cosplay Fork Tournament") . "</a> (CCFT) " . _("NEW!") . "</h3>";
+	echo "<ul><li>" . _("A tournament lasting about a 4-5 weeks with each week highlighting a different DCSS Fork.") . "</li>";
+	echo     "<li>" . _("The first ever CCFT will likely start on May 30th, 2025.");
+	echo     "<li>" . _("Read a draft of" . ' <a href="/ccft/about_ccft">' . _("About CCFT") . "</a>.</li></ul>";
+?>
+	
 <h2>Watch a video about the Crawl Cosplay website</h2>
 <p>For indepth details about the Crawl Cosplay website, see: <a href="https://www.youtube.com/watch?v=x7u0PwESwPM&t=39s" target="_blank">Dumalacath's CC video</a></p>
 
