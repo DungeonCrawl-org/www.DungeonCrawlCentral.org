@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <?php echo $this->part('head_localisation'); ?>
 
-
 <html lang="en">
   <head>
     <meta charset="utf-8">
