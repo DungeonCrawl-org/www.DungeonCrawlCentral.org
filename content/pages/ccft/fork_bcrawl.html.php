@@ -13,4 +13,4 @@
     <li><a href="https://underhound.eu:8080//" target="_blank">CUE in Germany</a></li>
 </ul>
 
-<p>Join the <a href="https://discord.gg/PR2na4pATB" target="_blank">bcrawl discord server</a></p>
+<p>Join the <a href="https://discord.gg/PR2na4pATB" target="_blank">bcrawl discord server<img src="/img/discord_transparent_border.png" width="18" height="18"></a></p>
