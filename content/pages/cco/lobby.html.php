@@ -1,15 +1,17 @@
 <?php $this->layout = 'cco'; ?>
+<?php 
+echo '<div class="login_placeholder">' . 
+        '<div id="login" align="right">' .
+         '<br>';
+echo '<span id="login_message">' _("Logged in as:") . " xxxxx</span>" . 
+     '<a id="chem_link" href="javascript:" style="">' . _("Change Email") . "</a>" .
+     '<a id="chpw_link" href="javascript:" style="">' . _("Change Password") . "</a>" .
+     '<a id="logout_link" href="javascript:" style="">' . _("Logout") . "</a></span>";
+echo     '</div>';
 
-<div class="login_placeholder">
-<div id="login" align="right">
-    <br>
-    <span id="login_message">Logged in as xxxxx</span>
-    <a id="chem_link" href="javascript:" style="">Change Email</a>
-    <a id="chpw_link" href="javascript:" style="">Change Password</a>
-    <a id="logout_link" href="javascript:" style="">Logout</a></span>
-</div>
+echo "<h2>" . _("Welcome to the lobby for the CCO WebTiles server") . "</b>!</h2>";
+?>
 
-<h2>Welcome to the lobby for the <b>CCO WebTiles server</b>!</h2>
 <pre>*** <b><i>This is a mockup of the future CCO lobby webpage.</i></b> ***</pre>
 <p>By playing on this CCO WebTiles server you agree to our <a href="/cco/code_of_conduct">Code of Conduct</a>.<br></p>
 <p>Please join our <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">DCSS Crawl Cosplay 2.0 community discord server</a>.</p>
