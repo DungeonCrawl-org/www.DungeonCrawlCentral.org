@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+    <?php echo $this->part('neck_dropdown_menus'); ?>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
