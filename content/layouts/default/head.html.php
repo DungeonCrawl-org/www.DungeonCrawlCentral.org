@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<?php
+	putenv('LC_ALL=fr'); // fr = french
+	setlocale(LC_ALL, 'fr'); // fr = french
+?>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
