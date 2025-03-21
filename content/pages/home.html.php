@@ -40,14 +40,15 @@
 	
 	echo "<h2>" . _("Watch a video about the Crawl Cosplay website") . "</h2>";
 	echo "<p>" . _("For indepth details about the Crawl Cosplay website, see:")
-		   . '<a href="https://www.youtube.com/watch?v=x7u0PwESwPM&t=39s" target="_blank">' . _("Dumalacath's CC video") . "</a></p>";
+		   . ' <a href="https://www.youtube.com/watch?v=x7u0PwESwPM&t=39s" target="_blank">' . _("Dumalacath's CC video") . "</a></p>";
+
+	echo "<h2>" . _("Want to chat?") . "</h2>";
+	echo "<p>" . _("Come chat with us on our DCSS Crawl Cosplay 2.0 community")
+	           . ' <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">'
+		   . _("Discord server") . '<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> '
+		   . _("with over 125 members!") . "</p>";
 ?>
-
-<h2>Want to chat?</h2>
-<p>Come chat with us on our 
-    <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">Discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a> 
-    with over 300 members!</p>
-
+	
 <h2>Active Crawl Cosplay Streamers</h2>
 <p>Our Crawl Cosplay YouTube channel <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> is a repertoire of
 	short videos and shorts that have links in the Comments to the full video or playlist for that Crawl Cosplay streamer(s)/topic.</p>
