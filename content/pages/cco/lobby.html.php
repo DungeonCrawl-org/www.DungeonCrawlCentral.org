@@ -10,16 +10,14 @@ echo '<span id="login_message">' . _("Logged in as:") . " xxxxx </span>" .
 echo     '</div>';
 
 echo "<h2>" . _("Welcome to the lobby for the CCO WebTiles server") . "</b>!</h2>";
+
+echo "<pre>*** <b><i>This is a mockup of the future CCO lobby webpage.</i></b> ***</pre>";
+echo "<p>" . _("By playing on this CCO WebTiles server you agree to our") . ' <a href="/cco/code_of_conduct">' . _("Code of Conduct") . "</a>.<br></p>";
+echo "<p>" . _("Please join our") . ' <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">' . _("DCSS Crawl Cosplay 2.0 community discord server") . "</a>.</p>";
+echo "<p>" . _("CCO Admins (Quinn & RoGGa) may be contacted via email at:") . "<b>cco @ crawlcosplay . org</b></p>";
+echo "<p>" . _("For quick account or server issues, please contact Quinn or RoGGa in the CC discord server linked above.") . "</p>";
 ?>
 
-<pre>*** <b><i>This is a mockup of the future CCO lobby webpage.</i></b> ***</pre>
-<p>By playing on this CCO WebTiles server you agree to our <a href="/cco/code_of_conduct">Code of Conduct</a>.<br></p>
-<p>Please join our <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">DCSS Crawl Cosplay 2.0 community discord server</a>.</p>
-<p>CCO Admins (Quinn & RoGGa) may be contacted via email at: <b>cco @ crawlcosplay . org</b></p>
-<p>For quick account or server issues, please contact Quinn or RoGGa in the CC discord server linked above.</p>
-<p style="padding:5px; border-radius:10px; background-color:#2c6f17; display:inline-block; margin:20px 0 10px 0; line-height:1.3;">
-The <a href="/cctt">Crawl Cosplay Trunk Tournament</a> (CCTT) started Friday, Feb 21 @ 00:00 UTC and runs until the end of March 27th @ 23:59 UTC.
-<br>Check out the website above for details on participating.</p>
 <p>Hello, <b>xxxxx</b>!</p>
 <p>Games on this server are recorded for in-progress viewing and playback. Chat messages might be logged, depending on the player's settings.</p>
 
