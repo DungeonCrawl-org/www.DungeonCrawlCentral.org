@@ -24,15 +24,16 @@ if ($data = $this->request->getPostData()) {
 }
 
 ?>
-<h2>Admin Authentication</h2>
+<h2 style="text-align:right;">Admin Authentication</h2>
 
 <?php if ($error_message) : ?>
 <p class="error"><?=$error_message?></p>
 <?php endif; ?>
 <form method="POST">
-	<label><span>Passphrase</span><br />
+<p style="text-align:right;"><label><span>Passphrase</span><br />
 		<input type="password" name="passphrase" placeholder="Do you remember?" autofocus />
 	</label>
 	<br />
 	<input type="submit" name="Submit" />
+</p>
 </form>
