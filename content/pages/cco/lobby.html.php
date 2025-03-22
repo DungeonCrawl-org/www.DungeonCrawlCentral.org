@@ -3,7 +3,7 @@
 echo '<div class="login_placeholder">' . 
         '<div id="login" align="right">' .
          '<br>';
-echo '<span id="login_message">' _("Logged in as:") . " xxxxx</span>" . 
+echo '<span id="login_message">' . _("Logged in as:") . " xxxxx</span>" . 
      '<a id="chem_link" href="javascript:" style="">' . _("Change Email") . "</a>" .
      '<a id="chpw_link" href="javascript:" style="">' . _("Change Password") . "</a>" .
      '<a id="logout_link" href="javascript:" style="">' . _("Logout") . "</a></span>";
