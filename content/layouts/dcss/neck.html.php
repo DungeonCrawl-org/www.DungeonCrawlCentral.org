@@ -19,8 +19,7 @@
     <div class="page_content">
         <div class="heading">
             <h1><img src="/img/dcss_logo.png"></h1>
-	          <div class="fineprint"><center>Come chat with us in our <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">DCSS Crawl Cosplay 2.0 community discord server
-                                           <img src="/img/discord_transparent_border.png" width="18" height="18" ></a></center></div>
+	          <div class="fineprint"><center>Come chat with us in our <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">DCSS Crawl Cosplay 2.0 community discord server<img src="/img/discord_transparent_border.png" width="18" height="18"></a></center></div>
         </div>
 	<br>
         <img src="/img/HR-right.png"><br>
