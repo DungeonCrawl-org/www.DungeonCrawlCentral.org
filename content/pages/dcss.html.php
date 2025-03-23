@@ -4,4 +4,4 @@
 <h1>Orb of Zot</h1>
 <center><img src="/img/orb_of_zot.gif"></center>
 
-<h1>Play Online - Download DCSS</h1>
+<h2><center><a href="/dcss/online">Play Online</a> - <a href="dcss/download">Download DCSS</a></center></h2>
