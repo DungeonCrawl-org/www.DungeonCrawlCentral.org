@@ -1,6 +1,6 @@
 <?php $this->layout = 'dcss'; ?>
 
-<h4>Select a server manually:</h4>
+<h2>Select a server manually:</h2>
 
 <ul><li>Toronto, Canada: cco.crawlcosplay.org</li>
     <li>Arizona, USA: crawl.akrasiac.org</li>
