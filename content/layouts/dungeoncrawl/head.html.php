@@ -5,7 +5,7 @@
     <title><?=$page_title ?? 'Dungeon Crawl'?></title>
     <link rel="icon" href="/img/orb_of_zot.gif" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
-    <link rel="stylesheet" href="/css/dungeonccrawl.css?v=<?=time()?>">
+    <link rel="stylesheet" href="/css/dungeoncrawl.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
