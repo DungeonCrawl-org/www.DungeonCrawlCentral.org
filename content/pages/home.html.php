@@ -7,7 +7,7 @@
 
 	echo "<h2>" . _("Welcome to the Crawl Cosplay 5-in-1 website!") . "</h2>";
 	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
-Dungeon Crawl (DC) is the game with many forks to choose from
+
 	echo '<h3><a href="/dungeoncrawl">Dungeon Crawl</a> (DC) ' . _("is the game with many forks to choose from.") . "</h3>";
 	echo '<ul><li><a href="/dungeoncrawl/online_servers">' . _("Play online on a Webtiles server") . "</a>.</li>";
 	echo     '<li><a href="/dungeoncrawl/download">' . _("Download an offline version") . "</a>.</li></ul>";
