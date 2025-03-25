@@ -2,7 +2,7 @@
 
 <h2>Select a server manually:</h2>
 
-<ul><li><h4><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</h4></li>
+<ul><li><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</li>
     <li><a href="https://crawl.akrasiac.org:8443" target="_blank">CAO</a>: Arizona, USA</li>
     <li><a href="https://cbro.berotato.org" target="_blank">CBRO</a>:      Ohio, USA</li>
     <li><a href="https://crawl.dcss.io" target="_blank">CDI</a>:           New York, USA</li>
