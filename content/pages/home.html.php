@@ -7,10 +7,10 @@
 
 	echo "<h2>" . _("Welcome to the Crawl Cosplay 5-in-1 website!") . "</h2>";
 	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
-
-	echo '<h3><a href="https://crawl.develz.org/" target="_blank"> Dungeon Crawl: Stone Soup</a> (DCSS) ' . _("is the game!") . "</h3>";
-	echo '<ul><li><a href="https://crawl.develz.org/play.htm" target="_blank">' . _("Play online on a Webtiles server") . "</a>.</li>";
-	echo     '<li><a href="https://crawl.develz.org/download.htm" target="_blank">' . _("Download the offline version") . "</a>.</li></ul>";
+Dungeon Crawl (DC) is the game with many forks to choose from
+	echo '<h3><a href="/dungeoncrawl">Dungeon Crawl</a> (DC) ' . _("is the game with many forks to choose from.") . "</h3>";
+	echo '<ul><li><a href="/dungeoncrawl/online_servers">' . _("Play online on a Webtiles server") . "</a>.</li>";
+	echo     '<li><a href="/dungeoncrawl/download">' . _("Download an offline version") . "</a>.</li></ul>";
 
 	echo "<br><p>" . _("Please select your Crawl Cosplay pleasure among the following options") . ":";
 	echo '<h3><a href="/cca">' . _("Crawl Cosplay Academy") . "</a> (CCA)</h3>";
