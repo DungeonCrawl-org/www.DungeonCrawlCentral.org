@@ -2,13 +2,13 @@
 
 <h2>Select a server manually:</h2>
 
-<ul><li>Toronto, Canada: cco.crawlcosplay.org</li>
-    <li>Arizona, USA: crawl.akrasiac.org</li>
-    <li>Ohio, USA: cbro.berotato.org</li>
-    <li>New York, USA: crawl.dcss.io</li>
-    <li>Paris, France: crawl.xtahua.com</li>
-    <li>Falkenstein, Germany: underhound.eu</li>
-    <li>Gyeonggi, Korea: crawl.nemelex.cards</li>
-    <li>Tokyo, Japan: lazy-life.ddo.jp</li>
-    <li>Sydney, Australia: crawl.project357.org</li>
+<ul><li>Toronto, Canada: <a href="http://cco.crawlcosplay.org">CCO</a></li>
+    <li>Arizona, USA: <a href="http://crawl.akrasiac.org">CCO</a></li>
+    <li>Ohio, USA: <a href="http://cbro.berotato.org">CCO</a></li>
+    <li>New York, USA: <a href="http://crawl.dcss.io">CCO</a></li>
+    <li>Paris, France: <a href="http://crawl.xtahua.com">CCO</a></li>
+    <li>Falkenstein, Germany: <a href="http://underhound.eu">CCO</a></li>
+    <li>Gyeonggi, Korea: <a href="http://crawl.nemelex.cards">CCO</a></li>
+    <li>Tokyo, Japan: <a href="http://lazy-life.ddo.jp">CCO</a></li>
+    <li>Sydney, Australia: <a href="http://crawl.project357.org">CCO</a></li>
 </ul>
