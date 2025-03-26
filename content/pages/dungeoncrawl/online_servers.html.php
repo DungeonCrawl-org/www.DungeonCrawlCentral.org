@@ -2,7 +2,7 @@
 
 <h2>Select a server manually:</h2>
 
-<details style="display:inline-block;">
+<p><details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</summary>
             <ul><li>Stone Soup stable v0.30 to v.32 and unstable Trunk</li>
@@ -10,7 +10,7 @@
                 <li>bcadren</li>
                 <li>stoatsoup</li>
             </ul>
-</details>
+</details></p>
 
 <details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
