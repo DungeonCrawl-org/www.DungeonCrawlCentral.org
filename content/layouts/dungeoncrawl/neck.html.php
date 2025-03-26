@@ -6,6 +6,7 @@
 			<a href="/dungeoncrawl/online_servers"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Play online</a>
 			<a href="/dungeoncrawl/download"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Download DCSS</a>
 			<a href="http://crawl.chaosforge.org/" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; DCSS Wiki</a>
+			<a href="/">Dungeon Crawl Cosplay</a>
 		</div>
 	</div>
 
