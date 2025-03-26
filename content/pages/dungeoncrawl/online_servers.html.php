@@ -1,6 +1,8 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
-<h2>Select a server manually:</h2>
+<h2>Click to select the closest/fastest server for you</h2>
+<p>button</p>
+<h2>Select a server manually or click on the arrow to view forks installed</h2>
 
 <p><details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
