@@ -2,7 +2,12 @@
 
 <h2>Select a server manually:</h2>
 
-<ul><li><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</li>
+<details style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;"><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada<</summary>
+            <span>Stone Soup stable v0.30 to v.32 and unstable Trunk</span>
+            <span>bcrawl</a></span>
+</details>
+<ul>
     <li><a href="https://crawl.akrasiac.org:8443" target="_blank">CAO</a>: Arizona, USA</li>
     <li><a href="https://cbro.berotato.org" target="_blank">CBRO</a>:      Ohio, USA</li>
     <li><a href="https://crawl.dcss.io" target="_blank">CDI</a>:           New York, USA</li>
