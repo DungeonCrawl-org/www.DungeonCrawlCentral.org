@@ -9,7 +9,7 @@
 	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
 
 	echo '<h3><a href="/dungeoncrawl">Dungeon Crawl</a> (DC) ' . _("is the game with many forks to choose from.") . "</h3>";
-	echo '<ul><li><a href="/dungeoncrawl/online_servers">' . _("Play online on a Webtiles server") . "</a>.</li>";
+	echo '<ul><li><a href="/dungeoncrawl/online_servers">' . _("Play online") . "</a>" . _(" on a Webtiles server.") . "</li>";
 	echo     '<li><a href="/dungeoncrawl/download_forks">' . _("Download") . "</a>" . _(" an offline version of one of the DC forks.") . "</li>";
 	echo     "<li>" . _("Join our ") . '<a href="https://discord.gg/gMnE5JFcB7" target="_blank">' . _("Dungeon Crawl community") . "</a>". _(" discord server.") . "</li></ul>";
 
