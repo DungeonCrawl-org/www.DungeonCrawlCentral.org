@@ -1,7 +1,8 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
 <h2>Click the botton to determine the closest/fastest server to your location</h2>
-<button class="btn btn-success" onclick="location.href='https://crawl.develz.org/play.htm';"> Launch </button>
+<button class="btn btn-success" onclick=" window.open('https://crawl.develz.org/play.htm','_blank')"> Launch in new tab </button>
+
 <h2>Select a server manually or click on the arrow to view forks installed</h2>
 
 <p><details style="display:inline-block;">
