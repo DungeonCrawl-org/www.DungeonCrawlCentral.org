@@ -31,7 +31,7 @@ h1	{
 .dropbtn {
   background-color: #7D623C;
   color: white;
-  padding: 16px;
+  padding: 12px;
   font-size: 16px;
   border: none;
   cursor: pointer;
@@ -48,13 +48,13 @@ h1	{
   right: 0;
   background-color: #7D623C;
   min-width: 400px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 12px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
 .dropdown-content a {
   color: black;
-  padding: 12px 16px;
+  padding: 12px 12px;
   text-decoration: none;
   display: block;
 }
