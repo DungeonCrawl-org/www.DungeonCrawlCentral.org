@@ -5,7 +5,17 @@
 <p><details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</summary>
-            <ul><li>Stone Soup stable v0.30 to v.32 and unstable Trunk</li>
+            <ul><li>Stone Soup stable v0.11 to v.32 and unstable Trunk</li>
+                <li>bcrawl</li>
+                <li>bcadren</li>
+                <li>stoatsoup</li>
+            </ul>
+</details></p>
+
+<p><details style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="https://crawl.yiuf.org/" target="_blank">CYO</a>:     Seattle, USA</summary>
+            <ul><li>Stone Soup stable v0.11 to v.32 and unstable Trunk</li>
                 <li>bcrawl</li>
                 <li>bcadren</li>
                 <li>stoatsoup</li>
