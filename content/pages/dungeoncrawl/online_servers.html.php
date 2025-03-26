@@ -1,5 +1,7 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
+<h1>Online Dungeon Crawl WebTiles servers</h1>
+
 <h2>Select a server manually or click on the arrow to view forks installed</h2>
 
 <p><details style="display:inline-block;">
