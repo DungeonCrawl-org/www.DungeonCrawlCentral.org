@@ -2,9 +2,9 @@
 	<div class="dropdown" style="float:left;">
 		<button class="dropbtn">Menu</button>
 		<div class="dropdown-content" style="left:0;">
-			<a href="/dcss">Dungeon Crawl</a>
-			<a href="/dcss/online"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Play online</a>
-			<a href="/dcss/download"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Download DCSS</a>
+			<a href="/dungeoncrawl">Dungeon Crawl</a>
+			<a href="/dungeoncrawl/online_servers"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Play online</a>
+			<a href="/dungeoncrawl/download"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Download DCSS</a>
 			<a href="http://crawl.chaosforge.org/" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; DCSS Wiki</a>
 		</div>
 	</div>
