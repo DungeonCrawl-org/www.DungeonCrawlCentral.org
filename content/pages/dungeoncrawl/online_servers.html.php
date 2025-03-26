@@ -3,17 +3,28 @@
 <h2>Select a server manually:</h2>
 
 <details style="display:inline-block;">
-        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;"><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada<</summary>
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</summary>
             <ul><li>Stone Soup stable v0.30 to v.32 and unstable Trunk</li>
                 <li>bcrawl</li>
                 <li>bcadren</li>
                 <li>stoatsoup</li>
             </ul>
 </details>
-<ul>
-    <li><a href="https://crawl.akrasiac.org:8443" target="_blank">CAO</a>: Arizona, USA</li>
-    <li><a href="https://cbro.berotato.org" target="_blank">CBRO</a>:      Ohio, USA</li>
-    <li><a href="https://crawl.dcss.io" target="_blank">CDI</a>:           New York, USA</li>
+
+<details style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="https://crawl.akrasiac.org:8443" target="_blank">CAO</a>: Arizona, USA</summary>
+            <ul><li>Stone Soup stable v0.11 to v.32 and unstable Trunk</li></ul>
+</details>
+
+<details style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                 <a href="https://cbro.berotato.org" target="_blank">CBRO</a>:      Ohio, USA</summary>
+            <ul><li>Stone Soup stable v0.24 to v.32 and unstable Trunk</li></ul>
+</details>
+
+                <li><a href="https://crawl.dcss.io" target="_blank">CDI</a>:           New York, USA</li>
     <li><a href="https://crawl.xtahua.com" target="_blank">CXC</a>:        Paris, France</li>
     <li><a href="https://underhound.eu:8080" target="_blank">CUE</a>:      Falkenstein, Germany</li>
     <li><a href="https://crawl.nemelex.cards" target="_blank">CNC</a>:     Gyeonggi, Korea</li>
