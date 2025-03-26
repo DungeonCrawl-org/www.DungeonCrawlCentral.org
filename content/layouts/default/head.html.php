@@ -24,7 +24,7 @@ h1	{
 .dropbtn {
   background-color: #7D623C;
   color: black;
-  padding: 16px;
+  padding: 12px;
   font-size: 16px;
   border: none;
   cursor: pointer;
