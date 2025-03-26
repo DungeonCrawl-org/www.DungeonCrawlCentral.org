@@ -69,7 +69,7 @@
 <p><details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="http://lazy-life.ddo.jp:8080/#lobby" target="_blank">LLD</a>:   Tokyo, Japan</summary>
-            <ul><li>Stone Soup stable v.32</li></ul>
+            <ul><li>Stone Soup stable v.32 only</li></ul>
 </details></p>
 
 <p><details style="display:inline-block;">
