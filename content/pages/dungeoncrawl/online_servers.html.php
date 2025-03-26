@@ -4,8 +4,11 @@
 
 <details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;"><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada<</summary>
-            <span>Stone Soup stable v0.30 to v.32 and unstable Trunk</span>
-            <span>bcrawl</a></span>
+            <ul><li>Stone Soup stable v0.30 to v.32 and unstable Trunk</li>
+                <li>bcrawl</li>
+                <li>bcadren</li>
+                <li>stoatsoup</li>
+            </ul>
 </details>
 <ul>
     <li><a href="https://crawl.akrasiac.org:8443" target="_blank">CAO</a>: Arizona, USA</li>
