@@ -12,22 +12,58 @@
             </ul>
 </details></p>
 
-<details style="display:inline-block;">
+<p><details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="https://crawl.akrasiac.org:8443" target="_blank">CAO</a>: Arizona, USA</summary>
             <ul><li>Stone Soup stable v0.11 to v.32 and unstable Trunk</li></ul>
-</details>
+</details></p>
 
-<details style="display:inline-block;">
+<p><details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                  <a href="https://cbro.berotato.org" target="_blank">CBRO</a>:      Ohio, USA</summary>
             <ul><li>Stone Soup stable v0.24 to v.32 and unstable Trunk</li></ul>
-</details>
+</details></p>
 
-                <li><a href="https://crawl.dcss.io" target="_blank">CDI</a>:           New York, USA</li>
-    <li><a href="https://crawl.xtahua.com" target="_blank">CXC</a>:        Paris, France</li>
-    <li><a href="https://underhound.eu:8080" target="_blank">CUE</a>:      Falkenstein, Germany</li>
-    <li><a href="https://crawl.nemelex.cards" target="_blank">CNC</a>:     Gyeonggi, Korea</li>
-    <li><a href="https://lazy-life.ddo.jp:8080" target="_blank">LLD</a>:   Tokyo, Japan</li>
-    <li><a href="https://crawl.project357.org" target="_blank">CPO</a>:    Sydney, Australia</li>
-</ul>
+<p><details style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="https://crawl.dcss.io" target="_blank">CDI</a>:           New York, USA</summary>
+            <ul><li>Stone Soup stable v0.30 to v.32 and unstable Trunk</li></ul>
+</details></p>
+
+<p><details style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="https://crawl.xtahua.com" target="_blank">CXC</a>:        Paris, France</summary>
+            <ul><li>Stone Soup stable v0.25 to v.32 and unstable Trunk</li></ul>
+</details></p>
+
+<p><details style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="https://underhound.eu:8080" target="_blank">CUE</a>:      Falkenstein, Germany</summary>
+            <ul><li>Stone Soup stable v0.10 to v.32 and unstable Trunk</li>
+                <li>bcrawl</li>
+            </ul>
+</details></p>
+
+<p><details style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="https://crawl.nemelex.cards" target="_blank">CNC</a>:     Gyeonggi, Korea</summary>
+            <ul><li>Stone Soup stable v0.30 to v.32 and unstable Trunk</li>
+                <li>bcrawl</li>
+                <li>bcadren</li>
+                <li>stoatsoup</li>
+            </ul>
+</details></p>
+
+<p><details style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="https://lazy-life.ddo.jp:8080" target="_blank">LLD</a>:   Tokyo, Japan</summary>
+            <ul><li>Stone Soup stable v.32</li></ul>
+</details></p>
+
+<p><details style="display:inline-block;">
+        <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
+                <a href="https://crawl.project357.org" target="_blank">CPO</a>:    Sydney, Australia</summary>
+            <ul><li>Stone Soup stable v0.25 to v.32 and unstable Trunk</li>
+                <li>stoatsoup</li>
+            </ul>
+</details></p>
