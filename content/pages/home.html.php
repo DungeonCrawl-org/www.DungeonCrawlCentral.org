@@ -10,8 +10,8 @@
 
 	echo '<h3><a href="/dungeoncrawl">Dungeon Crawl</a> (DC) ' . _("is the game with many forks to choose from.") . "</h3>";
 	echo '<ul><li><a href="/dungeoncrawl/online_servers">' . _("Play online on a Webtiles server") . "</a>.</li>";
-	echo     '<li><a href="/dungeoncrawl/download_forks">' . _("Download an offline version of one of the DC forks") . "</a>.</li>";
-	echo     '<li><a href="https://discord.gg/gMnE5JFcB7" target="_blank">' . _("Join our Dungeon Crawl community discord server") . "</a>.</li></ul>";
+	echo     '<li><a href="/dungeoncrawl/download_forks">' . _("Download") . "</a>" . _(" an offline version of one of the DC forks.") . "</li>";
+	echo     "<li>" . _("Join our ") . "<a href="https://discord.gg/gMnE5JFcB7" target="_blank">' . _("Dungeon Crawl community") . "</a>". _(" discord server.") . "</li></ul>";
 
 	echo "<br><p>" . _("Please select your Crawl Cosplay pleasure among the following options") . ":";
 	echo '<h3><a href="/cca">' . _("Crawl Cosplay Academy") . "</a> (CCA)</h3>";
