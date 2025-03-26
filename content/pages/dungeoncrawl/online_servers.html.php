@@ -1,6 +1,6 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
-<h1>Online WebTiles servers</h1>
+<h1 style="color:orange">Online WebTiles servers</h1>
 
 <h2>Select a server manually or click on the arrow to view forks installed</h2>
 
