@@ -51,6 +51,11 @@ After you complete a good game (with either a <abbr title="aka Yet Another Victo
 <br />
 <p>Feel free to submit a morgue as soon as you've improved your score. Your best 2 runs for a specific challenge will be kept in the website's database.</p>
 <p>These challenges are built around a best-practice approach. If you broke some conduct or bonus because it was "better" to do so, explain why you did when you submit your morgue.</p>
+
+<h3>Changing your player sprite to a Unique's doll.</h3>
+<p>If you'd like to change the player doll to the Unique's tile, add the following to your RC/init.txt file:</p>
+<p> tile_player_tile = tile:MONS_WIGLAF</p>
+
 <h2>Q&A</h2>
 <h3>Why aren't easy combos like Minotaur Beserker (MiBe) not one of the 12 CCA challenges?</h3>
 <p>Simple, you won't find some of the easiest combos such as MiBe because there are not any DCSS Uniques that fill those combos.</p><br>
