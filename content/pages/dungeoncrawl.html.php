@@ -5,7 +5,9 @@
 <h1>Orb of Zot</h1>
 <center><img src="/img/orb_of_zot.gif"></center>
 
-<h2><center><a href="/dungeoncrawl/online_servers">Play Online</a> - <a href="dcss/download">Download DC forks</a></center></h2>
+<h2><center><a href="/dungeoncrawl/online_servers">Play Online</a>
+            - <a href="/dungeoncrawl/download">Download DC forks offline versions</a>
+            - <a href="/dungeoncrawl/forks">Details of DC forks</a></center></h2>
 <br>
 <p><img src="/img/HR-right.png"></p>
 <h2>Other links</h2>
