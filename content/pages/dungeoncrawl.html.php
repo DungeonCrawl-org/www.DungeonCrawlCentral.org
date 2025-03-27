@@ -13,7 +13,7 @@
 <h2>Other links</h2>
 <ul><li><a href="http://crawl.chaosforge.org/" target="_blank">Crawl Wiki</a></li>
     <li><a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community discord server</a></li>
-    <li><a href="/">Dungeon Crawl Cosplay</a> website</li>
+    <li><a href="https://www.crawlcosplay.org/">Dungeon Crawl Cosplay</a> website</li>
     <li><a href="https://discord.gg/JYJf7ndQJK" target="_blank">Dungeon Crawl Cosplay 2.0 community discord server</a></li>
     <li><a href="https://tavern.dcss.io/" target="_blank">Tavern 2.0</a></li>
 </ul>
