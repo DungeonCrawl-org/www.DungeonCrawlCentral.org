@@ -6,14 +6,14 @@
 <br>
 <details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="/dungeoncrawl/forks/bcadren" target="_blank">BCadren</a></summary>
+                <a href="/dungeoncrawl/forks/bcadren">BCadren</a></summary>
             <ul><li><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</li>
                 <li><a href="https://crawl.yiuf.org/" target="_blank">CYO</a>:         Seattle, USA</li>
                 <li><a href="https://crawl.nemelex.cards" target="_blank">CNC</a>:     Gyeonggi, Korea</li></ul>
 </details></p>
 <details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="/dungeoncrawl/forks/bcrawl" target="_blank">BCrawl</a></summary>
+                <a href="/dungeoncrawl/forks/bcrawl">BCrawl</a></summary>
             <ul><li><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</li>
                 <li><a href="https://crawl.yiuf.org/" target="_blank">CYO</a>:         Seattle, USA</li>
                 <li><a href="https://underhound.eu:8080" target="_blank">CUE</a>:      Falkenstein, Germany</li>
@@ -21,7 +21,7 @@
 </details></p>
 <details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="/dungeoncrawl/forks/stoatsoup" target="_blank">StoatSoup</a></summary>
+                <a href="/dungeoncrawl/forks/stoatsoup">StoatSoup</a></summary>
             <ul><li><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</li>
                 <li><a href="https://crawl.yiuf.org/" target="_blank">CYO</a>:         Seattle, USA</li>
                 <li><a href="https://crawl.nemelex.cards" target="_blank">CNC</a>:     Gyeonggi, Korea</li>
@@ -29,7 +29,7 @@
 </details></p>
 <details style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="/dungeoncrawl/forks/stonesoup" target="_blank">Stone Soup</a> (DCSS)</summary>
+                <a href="/dungeoncrawl/forks/stonesoup">Stone Soup</a> (DCSS)</summary>
             <ul><li><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:         Toronto, Canada</li>
                 <li><a href="https://crawl.yiuf.org/" target="_blank">CYO</a>:             Seattle, USA</li>
                 <li><a href="https://crawl.akrasiac.org:8443" target="_blank">CAO</a>:     Arizona, USA</li>
