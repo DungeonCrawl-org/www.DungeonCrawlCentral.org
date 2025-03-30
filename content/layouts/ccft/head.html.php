@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title><?=$page_title ?? 'Crawl Cosplay Fork Tournament (CCFT)'?></title>
-    <link rel="icon" href="/img/feat-dg_entrance.png" type="image/png">
+    <link rel="icon" href="/img/Player_Ghost.png" type="image/png">
     <link rel="stylesheet" href="/css/ccft.css?v=<?=time()?>">
 
 <style>
