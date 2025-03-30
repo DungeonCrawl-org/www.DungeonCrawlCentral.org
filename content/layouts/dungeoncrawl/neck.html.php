@@ -7,8 +7,8 @@
 			<a href="/dungeoncrawl/download"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Download DCSS</a>
 			<a href="/dungeoncrawl/forks"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; DC forks details</a>
 			<a href="http://crawl.chaosforge.org/" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; DCSS Wiki</a>
-			<a href="/">Dungeon Crawl Cosplay website</a>
-			<a href="https://discord.gg/pW7nqC8Wu3" target="_blank">Dungeon Crawl Cosplay 2.0 community discord server</a>
+			<a href="/">Crawl Cosplay website</a>
+			<a href="https://discord.gg/pW7nqC8Wu3" target="_blank">Crawl Cosplay 2.0 community discord server</a>
 		</div>
 	</div>
 
