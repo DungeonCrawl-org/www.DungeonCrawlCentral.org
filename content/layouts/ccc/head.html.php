@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title><?=$page_title ?? 'Crawl Cosplay Challenge (CCC)'?></title>
-    <link rel="icon" href="/img/feat-dg_entrance.png" type="image/png">
+    <link rel="icon" href="/img/uniques/Mennas.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/ccc.css"> -->
     <link rel="stylesheet" href="/css/ccc.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
