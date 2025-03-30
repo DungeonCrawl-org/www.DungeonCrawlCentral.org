@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title><?=$page_title ?? 'Dungeon Crawl'?></title>
-    <link rel="icon" href="/img/orb_of_zot.gif" type="image/png">
+    <link rel="icon" href="/img/feat-dg_entrance.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
     <link rel="stylesheet" href="/css/dungeoncrawl.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
