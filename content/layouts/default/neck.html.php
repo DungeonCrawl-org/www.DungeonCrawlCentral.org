@@ -4,7 +4,7 @@
     	<div class="toplinks"><br></div>
     	<div class="page_content">
         	<div class="heading">
-            		<h1><center><img src="/img/cc_stone_soup_icon-128x128.png" width="48" height="48" /> Dungeon Crawl Cosplay <img src="/img/cc_stone_soup_icon-128x128.png" width="48" height="48" /></center></h1>
+            		<h1><center><img src="/img/cc_stone_soup_icon-128x128.png" width="48" height="48" /> Crawl Cosplay <img src="/img/cc_stone_soup_icon-128x128.png" width="48" height="48" /></center></h1>
             		<div class="fineprint"><center>Come chat with us in our <a href="https://discord.gg/pW7nqC8Wu3" target="_blank">Dungeon Crawl Cosplay 2.0 community discord server<img src="/img/discord_transparent_border.png" width="18" height="18" ></a></center></div>
         	</div>
 		<div class="fineprint" align="right">
