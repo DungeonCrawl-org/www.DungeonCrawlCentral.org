@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title><?=$page_title ?? 'Crawl Cosplay Trunk Tournament (CCTT)'?></title>
-    <link rel="icon" href="/img/uniques/Tiamat.gif" type="image/gif">
+    <link rel="icon" href="/img/uniques/Tiamat.png" type="image/png">
     <link rel="stylesheet" href="/css/cctt.css?v=<?=time()?>">
 
 <style>
