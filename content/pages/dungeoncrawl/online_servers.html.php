@@ -81,5 +81,5 @@
 </details></p>
 
 <h2>Click the botton to determine the closest/fastest server to your location</h2>
-<button class="btn btn-success" onclick=" window.open('https://crawl.develz.org/play.htm','_blank')"> Launch in new tab </button>
+<center><button class="btn btn-success" onclick=" window.open('https://crawl.develz.org/play.htm','_blank')"> Launch in new tab </button></center>
 <p>NOTE: this does not work yet for CCO and CYO.</p>
