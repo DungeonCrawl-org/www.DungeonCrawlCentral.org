@@ -2,7 +2,7 @@
 
 <h2><img src="/img/feat-dg_entrance.png">Your home for free, open source & actively developped Dungeon Crawl (DC) forks.<img src="/img/feat-dg_entrance.png"></h2>
 <h2 style="color:Orange">Adventure through dungeons filled with dangerous monsters in a quest to find the fabulous:</h2>
-<h1>Orb of Zot</h1>
+<h1><b>Orb of Zot</b></h1>
 <center><img src="/img/orb_of_zot.gif"></center>
 
 <h2><center><a href="/dungeoncrawl/online_servers">Play Online</a>
