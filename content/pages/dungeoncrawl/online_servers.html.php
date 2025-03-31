@@ -80,6 +80,6 @@
             </ul>
 </details></p>
 
-<h2>Click the botton to determine the closest/fastest server to your location</h2>
-<center><button class="btn btn-success" onclick=" window.open('https://crawl.develz.org/play.htm','_blank')"> Launch in new tab </button></center>
+<h2>Click the botton to determine the closest/fastest WebTiles server to your location:</h2>
+<center><button class="btn btn-success" onclick=" window.open('https://crawl.develz.org/play.htm','_blank')"> Find closest WebTiles server </button></center>
 <p>NOTE: this does not work yet for CCO and CYO.</p>
