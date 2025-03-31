@@ -3,7 +3,7 @@
 		<button class="dropbtn">Menu</button>
 		<div class="dropdown-content" style="left:0;">
 			<a href="/dungeoncrawl">Dungeon Crawl (DC)</a>
-			<a href="https://discord.gg/gMnE5JFcB7" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; DC community discord server</a>
+			<a href="https://discord.gg/gMnE5JFcB7" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Dungeon Crawl community discord server</a>
 			<a href="/dungeoncrawl/online_servers"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Play online on a Webtiles server</a>
 			<a href="/dungeoncrawl/download"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Download a DC fork for offline play</a>
 			<a href="/dungeoncrawl/forks"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Dungeon Crawl forks details</a>
