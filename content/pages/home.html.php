@@ -6,7 +6,7 @@
 	$filename = $files[$index];
 
 	echo "<h2>" . _("Welcome to Dungeon Crawl Cosplay; a 5-in-1 website!") . "</h2>";
-	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'" style="float:right">';
+	echo '<img src="'.$dir_path."/".$filename.'" alt="'.$filename.'"  width="600"  style="float:right">';
 
 	echo '<h3><a href="/dungeoncrawl">Dungeon Crawl</a> (DC) ' . _("is the game with many forks to choose from.") . "</h3>";
 	echo '<ul><li><a href="/dungeoncrawl/online_servers">' . _("Play online") . "</a>" . _(" on a Webtiles server.") . "</li>";
