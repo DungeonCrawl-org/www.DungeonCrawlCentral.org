@@ -50,7 +50,7 @@
 	
 	echo "<h2>" . _("Crawl Cosplay Streamers") . "</h2>";
 	echo "<p>"  . _("Our Crawl Cosplay YouTube channel")
-		    . ' <a href="https://www.youtube.com/@dcsscrawlcosplayshorts" target="_blank">@dcsscrawlcosplayshorts</a> ' 
+		    . ' <a href="https://www.youtube.com/@DungeonCrawlCosplayShorts" target="_blank">@DungeonCrawlCosplayShorts</a> ' 
 		    . _("is a repertoire of short video extracts that have links to the full video or playlist.") . "</p>";
 
 	echo "<p>"  . _("See the") . ' <a href="/cc_streamers"><b>' . _("Crawl Cosplay Streamers") . "</b></a>'"  
