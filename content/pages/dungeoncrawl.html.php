@@ -1,6 +1,6 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
-<h2><center><img src="/img/enter_temple.png"> Your home for free, open source & actively developped Dungeon Crawl (DC) forks. <img src="/img/feat-dg_entrance.png"></center></h2>
+<h2><center><img src="/img/enter_temple.png"> Your home for free, open source & actively developped Dungeon Crawl (DC) forks. <img src="/img/bailey_portal.png"></center></h2>
 <br>
 <h2 style="color:Orange"><center>Adventure through dungeons filled with dangerous monsters in a quest to find the fabulous: </center></h2>
 <h1>Orb of Zot</h1>
