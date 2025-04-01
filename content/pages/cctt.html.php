@@ -115,8 +115,7 @@ if ($active) :
 	echo 'For the last tournament result, see:';
 	echo '<ul><li><a href="/cctt/tresults.html?set=32">CCTT#1</a> June 2024</li>';
 	echo     '<li><a href="/cctt/tresults.html?set=33">CCTT#2</a> March 2025</li>';
-</ul>
-
+	echo "</ul>";
 	echo "<br>";
 endif;
 ?>
