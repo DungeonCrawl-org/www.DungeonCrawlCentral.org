@@ -1,14 +1,14 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
-<h2><center><img src="/img/enter_temple.png"> Your home for free, open source & actively developped Dungeon Crawl (DC) forks. <img src="/img/bailey_portal.png"></center></h2>
+<h2><center><img src="/img/portals/enter_temple.png"> Your home for free, open source & actively developped Dungeon Crawl (DC) forks. <img src="/img/portals/bailey_portal.png"></center></h2>
 <br>
 <h2 style="color:Orange"><center>Adventure through dungeons filled with dangerous monsters in a quest to find the fabulous: </center></h2>
 <h1>Orb of Zot</h1>
 <center><img src="/img/orb_of_zot.gif"></center>
 
 <h2><center><a href="/dungeoncrawl/online_servers">Play Online</a>
-            - <a href="/dungeoncrawl/download">Download DC forks offline versions</a>
-            - <a href="/dungeoncrawl/forks">Details of DC forks</a></center></h2>
+            <img src="/img/portals/enter_elf.png"> <a href="/dungeoncrawl/download">Download DC forks offline versions</a>
+            <img src="/img/portals/desolation_portal.png"> <a href="/dungeoncrawl/forks">Details of DC forks</a></center></h2>
 <br>
 <p><img src="/img/HR-right.png"></p>
 <h2>Other links</h2>
