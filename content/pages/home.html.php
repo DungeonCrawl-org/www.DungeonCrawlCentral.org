@@ -25,7 +25,6 @@
 
     	echo '<h3><a href="/cctt">' . _("Crawl Cosplay Trunk Tournament") . "</a> (CCTT)</h3>";
     	echo "<ul><li>" . _("A tournament lasting about a month with each week highlighting some of the latest Trunk changes.") . "</li>";
-    	echo     "<li>" . _("CCTT #2 started Friday Feb 21st, 2025 at 00:00 UTC and runs until the end of March 27th UTC.") . "</li>";
     	echo     "<li>" . _("Read") . ': <a href="/cctt/about_cctt">' . _("About CCTT") . "</a>.</li>";
     	echo 	 '<li><a href="/cctt/past_cctt_results">' . _("Past CCTT Results") . "</a></li></ul>";
 
