@@ -23,7 +23,7 @@
 	</div>    <div class="toplinks"><br></div>
     <div class="page_content">
         <div class="heading">
-            <h1><img src="/img/dc_logo.png"></h1>
+            <h1><img src="/img/feat-dg_entrance.png"> www.DungeonCrawlForks.org <img src="/img/feat-dg_entrance.png"></h1>
 	          <div class="fineprint"><center>Come chat with us in our new <a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community discord server<img src="/img/discord_transparent_border.png" width="18" height="18"></a></center></div>
         </div>
 	<br>
