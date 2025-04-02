@@ -3,7 +3,7 @@
 <h1 style="color:orange">Online WebTiles servers</h1>
 
 <h2>Select a server manually or click on the arrow to view forks installed</h2>
-<table>
+<table style="font-size:11px">
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</summary>
