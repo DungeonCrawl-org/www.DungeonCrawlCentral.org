@@ -180,8 +180,8 @@ hr {
 }
 table {
     border-collapse: collapse;
-    border: 1px solid #ccc;
-    font-size: 11px;
+    border: 0px solid #ccc;
+    font-size: 14px;
 }
 td, th {
     text-align: left;
