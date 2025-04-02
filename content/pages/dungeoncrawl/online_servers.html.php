@@ -59,7 +59,7 @@
             </ul>
 </details></td>
 
-<td><details style="display:inline-block;">
+<td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
                 <a href="https://crawl.nemelex.cards" target="_blank">CNC</a>:     Gyeonggi, Korea</summary>
             <ul><li>Stone Soup stable v0.30 to v.32 and unstable Trunk</li>
