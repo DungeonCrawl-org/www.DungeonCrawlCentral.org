@@ -2,7 +2,7 @@
 
 <h2 style="color:orange">Dungeon Crawl actively developped forks</h2>
 
-<h4>Click on the link to get more info on that fork or click arrow to see the list of WebTiles servers with that fork installed</h4>
+<h4>Click on the fork name's link to get more info on that fork.</h4>
 <br>
 <details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
