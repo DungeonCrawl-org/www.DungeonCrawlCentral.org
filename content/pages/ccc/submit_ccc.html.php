@@ -55,7 +55,7 @@ if ($data = $this->request->getPostData()) {
     <fieldset>
         <label>
             <span>Player</span><select name="player_id">
-                <option value="">NEW PLAYER</option>
+                <option value="0">NEW PLAYER</option>
                 <?php $players = Player::list();
                 foreach ($players as $id => $name) : ?>
                 <option value="<?=$e($id)?>"><?=$e($name)?></option>
