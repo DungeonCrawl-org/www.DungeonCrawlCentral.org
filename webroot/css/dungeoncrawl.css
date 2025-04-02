@@ -179,6 +179,7 @@ hr {
     border: 1px solid #ccc;
 }
 table {
+    width: 100%;
     border-collapse: collapse;
     border: 0px solid #ccc;
     font-size: 14px;
