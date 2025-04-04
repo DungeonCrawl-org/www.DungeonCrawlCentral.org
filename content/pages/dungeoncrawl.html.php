@@ -1,6 +1,6 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 <h2>Welcome to the Dungeon Crawl Central</h2>
-<h4><center><img src="/img/portals/enter_temple.png"> Your central repository of all things related to Dungeon Crawl forks, connected websites and bots! <img src="/img/portals/bailey_portal.png"></center></h4>
+<h4><center><img src="/img/portals/enter_temple.png"> Your repository of all things related to Dungeon Crawl forks, connected websites and even bots! <img src="/img/portals/bailey_portal.png"></center></h4>
 <br>
 <h2 style="color:Orange"><center>Adventure through dungeons filled with dangerous monsters in a quest to find the fabulous: </center></h2>
 <h1>Orb of Zot</h1>
