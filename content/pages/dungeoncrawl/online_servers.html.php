@@ -10,7 +10,7 @@
 <table>
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:     Toronto, Canada</summary>
+                <a href="http://cco.crawlcosplay.org" target="_blank"><b>CCO</b></a>:     Toronto, Canada</summary>
             <ul><li>Stone Soup v0.11 to v.32 and unstable Trunk</li>
                 <li>bcrawl</li>
                 <li>bcadren</li>
