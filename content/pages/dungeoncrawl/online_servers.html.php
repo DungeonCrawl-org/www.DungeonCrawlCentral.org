@@ -50,14 +50,14 @@
 
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://crawl.xtahua.com" target="_blank">CXC</a>:        Paris, France</summary>
+                <a href="https://crawl.xtahua.com" target="_blank"><b>CXC</b></a>:        Paris, France</summary>
             <ul><li>Stone Soup v0.25 to v.32 and unstable Trunk</li></ul>
 </details></td>
 </tr>
 
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://underhound.eu:8080" target="_blank">CUE</a>:      Falkenstein, Germany</summary>
+                <a href="https://underhound.eu:8080" target="_blank"><b>CUE</b></a>:      Falkenstein, Germany</summary>
             <ul><li>Stone Soup v0.10 to v.32 and unstable Trunk</li>
                 <li>bcrawl</li>
             </ul>
