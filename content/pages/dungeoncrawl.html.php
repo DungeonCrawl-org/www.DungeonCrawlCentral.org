@@ -1,5 +1,5 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
-<h2>Welcome to the Dungeon Crawl Central</h2>
+<h2>Welcome to the Dungeon Crawl Central website:</h2>
 <h4><center><img src="/img/portals/enter_temple.png"> Your repository of all things related to Dungeon Crawl forks, connected websites and even bots! <img src="/img/portals/bailey_portal.png"></center></h4>
 <br>
         <img src="/img/HR-right.png"><br>
