@@ -22,12 +22,12 @@
            <tr><th scope="row">Linux Packages</th>
                <td colspan="2"><center><a href="#linux">See Instructions</a></center></td></tr>
            <tr><th scope="row">Android - Published by Medrano83</th>
-               <td><a href="https://play.google.com/store/apps/details?id=org.develz.crawl"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="210px" height="80px"></a></td>
-               <td><a href="https://f-droid.org/en/packages/org.develz.crawl/"><img alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" width="210px" height="80px"></a></td></tr>
+               <td><center><a href="https://play.google.com/store/apps/details?id=org.develz.crawl"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="210px" height="80px"></a></center></td>
+               <td><center><a href="https://f-droid.org/en/packages/org.develz.crawl/"><img alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" width="210px" height="80px"></a></center></td></tr>
            <tr><th scope="row">Source</th>
-               <td colspan="2"><a href="https://github.com/crawl/crawl/releases/download/0.32.1/stone_soup-0.32.1.zip">Full source</a><br>
-                               <a href="https://github.com/crawl/crawl/releases/tag/0.32.1">Other formats</a><br>
-                               <a href="#source">See Git Instructions Below</a></td></tr>
+               <td colspan="2"><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/stone_soup-0.32.1.zip">Full source</a></center><br>
+                               <center><a href="https://github.com/crawl/crawl/releases/tag/0.32.1">Other formats</a></center><br>
+                               <center><a href="#source">See Git Instructions Below</a></td></center></tr>
             <tr><th scope="row">Past Releases</th>
                 <td colspan="2"><center><a href="release/?C=N;O=D">Releases Folder</a></center></td></tr>
             <tr><th scope="row"><center>Development Builds</center></th>
