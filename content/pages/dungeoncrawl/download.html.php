@@ -2,15 +2,14 @@
 
 <h1>Download Stone Soup fork</h1>
 <br>
-<table style="text-align: center;">
-    <thead><tr><th><h2 class="text-center">Latest Stable Version: <a href="https://github.com/crawl/crawl/releases/tag/0.32.1"><strong>0.32.1</strong></a></h2></th>
-               <th><h2 class="text-center">Graphical Tiles</h2></th>
-               <th><h2 class="text-center">Console</h2></th>
+<table style="text-align: center">
+    <thead><tr><th><h2>Latest Stable Version: <a href="https://github.com/crawl/crawl/releases/tag/0.32.1"><strong>0.32.1</strong></a></h2></th>
+               <th><h2><center>Graphical Tiles</center></h2></th>
+               <th><h2><center>Console</center></h2></th>
            </tr></thead>
-    <tbody><tr><th scope="row">Windows Installer</th>
-               <td colspan=2><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a></td>
-           </tr>
-           <tr><th scope="row">Windows Zips</th>
+    <tbody><tr><th>Windows Installer</th>
+               <td colspan=2><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a></td></tr>
+           <tr><th>Windows Zips</th>
                <td><ul class="list-unstyled"><li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-tiles.zip">Download</a></li></ul></td>
                <td><ul class="list-unstyled"><li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-console.zip">Download</a></li></ul></td>
            </tr>
