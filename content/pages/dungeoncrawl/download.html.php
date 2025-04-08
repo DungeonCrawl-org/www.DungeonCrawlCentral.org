@@ -11,7 +11,7 @@
                </th>
            </tr></thead>
     <tbody><tr><th scope="row">Windows Installer</th>
-               <td colspan=2><ul"><li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a></li></ul>
+               <td colspan=2><ul><li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a></li></ul>
                <td>
            </tr>
            <tr><th scope="row">Windows Zips</th>
