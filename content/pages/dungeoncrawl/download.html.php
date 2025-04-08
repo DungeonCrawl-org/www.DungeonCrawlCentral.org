@@ -1,7 +1,7 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
-<h2 class="text-center">Download</h2>
-<table class="table" style="text-align: center;">
+<h1>Download Stone Soup fork</h1>
+<table style="text-align: center;">
     <thead><tr><th><h5 class="text-center">Latest Stable Version: <a href="https://github.com/crawl/crawl/releases/tag/0.32.1"><strong>0.32.1</strong></a></h5></th>
                <th><h3 class="text-center">Graphical Tiles</h3></th>
                <th><h3 class="text-center">Console</h3></th>
