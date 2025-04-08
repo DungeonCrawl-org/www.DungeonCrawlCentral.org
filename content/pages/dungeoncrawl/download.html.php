@@ -3,15 +3,11 @@
 <h2 class="text-center">Download</h2>
 <table class="table" style="text-align: center;">
     <thead><tr><th><h5 class="text-center">Latest Stable Version: <a href="https://github.com/crawl/crawl/releases/tag/0.32.1"><strong>0.32.1</strong></a></h5></th>
-               <th><h3 class="text-center">Graphical Tiles</h3>
-                   <img src="tileimgs/tiles.png" class="center-block">
-               </th>
-               <th><h3 class="text-center">Console</h3>
-                   <img src="tileimgs/console.png" class="center-block">
-               </th>
+               <th><h3 class="text-center">Graphical Tiles</h3></th>
+               <th><h3 class="text-center">Console</h3></th>
            </tr></thead>
     <tbody><tr><th scope="row">Windows Installer</th>
-               <td colspan=2><ul><li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a></li></ul>
+               <td colspan=2><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a>
                <td>
            </tr>
            <tr><th scope="row">Windows Zips</th>
