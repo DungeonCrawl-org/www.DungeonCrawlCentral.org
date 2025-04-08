@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-#dlTable td, #customers th {
+#dlTable td, #dlTable th {
   border: 1px solid #ddd;
   padding: 8px;
 }
@@ -29,7 +29,7 @@
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #04AA6D;
+  background-color: grey;
   color: white;
 }
 
