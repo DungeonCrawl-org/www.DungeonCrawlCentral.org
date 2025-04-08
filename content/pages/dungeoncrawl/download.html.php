@@ -12,36 +12,26 @@
                <td colspan=2><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a></center></td></tr>
            <tr><th>Windows Zips</th>
                <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-tiles.zip">Download</a></center></td>
-               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-console.zip">Download</a></center></td>
-           </tr>
+               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-console.zip">Download</a></center></td></tr>
            <tr><th scope="row">Mac OS X</th>
                <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-macos-tiles-universal.zip">Download</a></center></td>
-               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-macos-console-universal.zip">Download</a></center></td>
-           </tr>
+               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-macos-console-universal.zip">Download</a></center></td></tr>
            <tr><th scope="row">Linux AppImages</th>
                <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-linux-tiles.x86_64.AppImage">Download</a></center></td>
-               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-linux-console.x86_64.AppImage">Download</a></center></td>
-           </tr>
+               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-linux-console.x86_64.AppImage">Download</a></center></td></tr>
            <tr><th scope="row">Linux Packages</th>
-               <td colspan="2"><ul class="list-unstyled"><li><a href="#linux">See Instructions</a></li></ul></td>
-           </tr>
-           <tr><th scope="row"><p>Android</p><p style="font-weight: normal;">Published by Medrano83</p></th>
+               <td colspan="2"><center><a href="#linux">See Instructions</a></center></td></tr>
+           <tr><th scope="row">Android - Published by Medrano83</th>
                <td><a href="https://play.google.com/store/apps/details?id=org.develz.crawl"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="210px" height="80px"></a></td>
-               <td><a href="https://f-droid.org/en/packages/org.develz.crawl/"><img alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" width="210px" height="80px"></a></td>
-           </tr>
+               <td><a href="https://f-droid.org/en/packages/org.develz.crawl/"><img alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" width="210px" height="80px"></a></td></tr>
            <tr><th scope="row">Source</th>
-               <td colspan="2"><ul class="list-unstyled">
-                                        <li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/stone_soup-0.32.1.zip">Full source</a></li>
-                                        <li><a href="https://github.com/crawl/crawl/releases/tag/0.32.1">Other formats</a></li>
-                                        <li><a href="#source">See Git Instructions Below</a></li>
-                               </ul></td>
-            </tr>
+               <td colspan="2"><a href="https://github.com/crawl/crawl/releases/download/0.32.1/stone_soup-0.32.1.zip">Full source</a><br>
+                               <a href="https://github.com/crawl/crawl/releases/tag/0.32.1">Other formats</a><br>
+                               <a href="#source">See Git Instructions Below</a></td></tr>
             <tr><th scope="row">Past Releases</th>
-                <td colspan="2"><ul class="list-unstyled"><li><a href="release/?C=N;O=D">Releases Folder</a></li></ul></td>
-            </tr>
-            <tr><th scope="row">Development Builds</th>
-                <td colspan="2"><ul class="list-unstyled"><li><a href="trunk/">Trunk Builds Page</a></li></ul></td>
-            </tr>
+                <td colspan="2"><center><a href="release/?C=N;O=D">Releases Folder</a></center></td></tr>
+            <tr><th scope="row"><center>Development Builds</center></th>
+                <td colspan="2"><center><a href="trunk/">Trunk Builds Page</a></center></td></tr>
      </tbody>
     </center>
 </table>
