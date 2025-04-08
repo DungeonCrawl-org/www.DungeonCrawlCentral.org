@@ -7,8 +7,7 @@
                <th><h3 class="text-center">Console</h3></th>
            </tr></thead>
     <tbody><tr><th scope="row">Windows Installer</th>
-               <td colspan=2><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a>
-               <td>
+               <td colspan=2><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a></td>
            </tr>
            <tr><th scope="row">Windows Zips</th>
                <td><ul class="list-unstyled"><li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-tiles.zip">Download</a></li></ul></td>
