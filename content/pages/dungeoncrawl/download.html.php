@@ -8,9 +8,9 @@
                <th><h2><center>Console</center></h2></th>
            </tr></thead>
     <tbody><tr><th>Windows Installer</th>
-               <td colspan=2><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a></td></tr>
+               <td colspan=2><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a></center></td></tr>
            <tr><th>Windows Zips</th>
-               <td><ul class="list-unstyled"><li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-tiles.zip">Download</a></li></ul></td>
+               <td><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-tiles.zip">Download</a></td>
                <td><ul class="list-unstyled"><li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-console.zip">Download</a></li></ul></td>
            </tr>
            <tr><th scope="row">Mac OS X</th>
