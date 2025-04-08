@@ -67,9 +67,9 @@ sudo apt-get install crawl-tiles</pre>
 <h2>Source Code</h2>
 <p>
                         To compile DCSS yourself, you can clone the
-                        <a href="https://github.com/crawl/crawl">git repository on github</a>.
+                        <a href="https://github.com/crawl/crawl">git repository on github</a>.<br>
                         For help using git, see the
-                        <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/docs/develop/git/quickstart.txt">quickstart guide</a>.
+                        <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/docs/develop/git/quickstart.txt">quickstart guide</a>.<br>
                         For help compiling DCSS, see
                         <a href="https://github.com/crawl/crawl/blob/master/crawl-ref/INSTALL.md">INSTALL.md</a>.
 </p>
