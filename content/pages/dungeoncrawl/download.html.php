@@ -3,7 +3,7 @@
 <h1>Download Stone Soup fork</h1>
 <h2><center>Latest Stable Version: <a href="https://github.com/crawl/crawl/releases/tag/0.32.1"><strong>0.32.1</strong></a></center></h2>
 <br>
-<table><center>
+<table id="dlTable"><center>
     <thead><tr><th></th>
                <th><h2><center>Graphical Tiles</center></h2></th>
                <th><h2><center>Console</center></h2></th>
