@@ -21,7 +21,7 @@
   padding: 8px;
 }
 
-#dlTable tr:nth-child(even){background-color: #f2f2f2;}
+#dlTable tr:nth-child(even){background-color: Dark Gray}
 
 #dltable tr:hover {background-color: #ddd;}
 
@@ -29,7 +29,7 @@
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: grey;
+  background-color: gray;
   color: white;
 }
 
