@@ -1,6 +1,6 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
-<h2>Welcome to the Dungeon Crawl Central website:</h2>
-<h4><center><img src="/img/portals/enter_temple.png"> Your repository of all things related to Dungeon Crawl forks, connected websites and even bots! <img src="/img/portals/bailey_portal.png"></center></h4>
+<h2><center>Welcome to the Dungeon Crawl Central website;</center></h2>
+<h4><center><img src="/img/portals/enter_temple.png"> your repository of all things related to Dungeon Crawl forks actively developed! <img src="/img/portals/bailey_portal.png"></center></h4>
 <br>
         <img src="/img/HR-right.png"><br>
 <h2 style="color:Orange"><center>Adventure through dungeons filled with dangerous monsters in a quest to find the fabulous: </center></h2>
