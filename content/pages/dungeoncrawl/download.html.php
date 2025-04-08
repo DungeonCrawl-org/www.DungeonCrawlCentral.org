@@ -1,7 +1,7 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
 <h1>Download Stone Soup fork</h1>
-<h2>Latest Stable Version: <a href="https://github.com/crawl/crawl/releases/tag/0.32.1"><strong>0.32.1</strong></a></h2>
+<h2><center>Latest Stable Version: <a href="https://github.com/crawl/crawl/releases/tag/0.32.1"><strong>0.32.1</strong></a></center></h2>
 <br>
 <table><center>
     <thead><tr><th></th>
@@ -11,8 +11,8 @@
     <tbody><tr><th>Windows Installer</th>
                <td colspan=2><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-installer.exe">Download Tiles+Console</a></center></td></tr>
            <tr><th>Windows Zips</th>
-               <td><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-tiles.zip">Download</a></td>
-               <td><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-console.zip">Download</a></td>
+               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-tiles.zip">Download</a></center></td>
+               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-console.zip">Download</a></center></td>
            </tr>
            <tr><th scope="row">Mac OS X</th>
                <td><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-macos-tiles-universal.zip">Download</a></td>
