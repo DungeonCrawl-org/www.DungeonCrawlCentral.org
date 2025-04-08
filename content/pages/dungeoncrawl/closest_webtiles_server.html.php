@@ -4,7 +4,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script src="js/dcss.js"></script>
 
-<h1 style="color:orange">Closest Dungeon Crawl WebTiles server</h1>
+<h2 style="color:orange">Closest Dungeon Crawl WebTiles server</h2>
 <p>Select the option to allow this page to determine your location</p>
 
 <div class="container">
