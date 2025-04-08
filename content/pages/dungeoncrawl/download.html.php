@@ -37,7 +37,7 @@
 </table>
 
 <a name="linux"></a>
-<h3>Linux</h3>
+<h2>Linux</h2>
 <p>
                         A version of DCSS may be available in your distribution's main package repository; look
                         for the packages 'crawl' (for the console version) and 'crawl-tiles' or 'crawl-sdl' (for
@@ -64,7 +64,7 @@ sudo apt-get install crawl
 # install tiles version
 sudo apt-get install crawl-tiles</pre>
 
-<h3>Source Code</h3>
+<h2>Source Code</h2>
 <p>
                         To compile DCSS yourself, you can clone the
                         <a href="https://github.com/crawl/crawl">git repository on github</a>.
