@@ -15,12 +15,12 @@
                <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-win32-console.zip">Download</a></center></td>
            </tr>
            <tr><th scope="row">Mac OS X</th>
-               <td><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-macos-tiles-universal.zip">Download</a></td>
-               <td><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-macos-console-universal.zip">Download</a></td>
+               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-macos-tiles-universal.zip">Download</a></center></td>
+               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-macos-console-universal.zip">Download</a></center></td>
            </tr>
            <tr><th scope="row">Linux AppImages</th>
-               <td><ul class="list-unstyled"><li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-linux-tiles.x86_64.AppImage">Download</a></li></ul></td>
-               <td><ul class="list-unstyled"><li><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-linux-console.x86_64.AppImage">Download</a></li></ul></td>
+               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-linux-tiles.x86_64.AppImage">Download</a></center></td>
+               <td><center><a href="https://github.com/crawl/crawl/releases/download/0.32.1/dcss-0.32.1-linux-console.x86_64.AppImage">Download</a></center></td>
            </tr>
            <tr><th scope="row">Linux Packages</th>
                <td colspan="2"><ul class="list-unstyled"><li><a href="#linux">See Instructions</a></li></ul></td>
