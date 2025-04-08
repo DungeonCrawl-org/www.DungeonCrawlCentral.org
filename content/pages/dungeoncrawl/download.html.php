@@ -3,7 +3,7 @@
 <h1>Download Stone Soup fork</h1>
 <h2>Latest Stable Version: <a href="https://github.com/crawl/crawl/releases/tag/0.32.1"><strong>0.32.1</strong></a></h2>
 <br>
-<table style="text-align: center">
+<table><center>
     <thead><tr><th></th>
                <th><h2><center>Graphical Tiles</center></h2></th>
                <th><h2><center>Console</center></h2></th>
@@ -43,6 +43,7 @@
                 <td colspan="2"><ul class="list-unstyled"><li><a href="trunk/">Trunk Builds Page</a></li></ul></td>
             </tr>
      </tbody>
+    </center>
 </table>
 
 <a name="linux"></a>
