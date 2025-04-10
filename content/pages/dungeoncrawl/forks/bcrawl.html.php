@@ -2,6 +2,10 @@
 
 <h1 style="color:orange">BCrawl</h1>
 
-<h2>Bcrawl: a Dungeon Crawl fork based on DCSS v0.2x</h2>
+<h2>BCrawl: a Dungeon Crawl fork based on Stone Soup fork (DCSS) v0.2x</h2>
 
-<p>
+<p>GitHub repo: <a href="https://github.com/b-crawl/bcrawl" target="_blank">github.com/b-crawl/bcrawl</a></p>
+
+<p>Download at: <a href="https://github.com/b-crawl/bcrawl/releases" target="_blank">github.com/b-crawl/bcrawl/releases</p>
+
+<p>Stats pages for BCrawl: </p>
