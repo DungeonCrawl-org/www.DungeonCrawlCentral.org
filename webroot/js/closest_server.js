@@ -275,7 +275,7 @@ $(function() {
     }
     // play.html
     if ($( "#play-status" ).length) {
-        $.get( "servers.json" ).done(handleServerList).fail(failServerList);
+        $.get( "/servers.json" ).done(handleServerList).fail(failServerList);
     }
     // watch.html
     if ($( "#livegames" ).length) {
