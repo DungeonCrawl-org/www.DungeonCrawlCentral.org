@@ -2,9 +2,8 @@
 
 <h1 style="color:orange">Online WebTiles servers</h1>
 
-<h2>Click the botton to determine the closest/fastest WebTiles server to your location:</h2>
-<center><button class="btn btn-success" onclick=" window.open('https://crawl.develz.org/play.htm','_blank')"> Find closest WebTiles server </button></center>
-<p>NOTE: this does not work yet for CCO and CYO.</p>
+<h2>Click the botton to determine the closest Dungeon Crawl server to your location:</h2>
+<center><button class="btn btn-success" onclick=" window.open('closest_server','_blank')"> Find closest Dungeon Crawl server </button></center>
 
 <h2>Or select a server manually depending on its forks installed:</h2>
 <table>
