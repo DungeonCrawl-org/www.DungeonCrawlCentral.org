@@ -29,9 +29,9 @@
                                <center><a href="https://github.com/crawl/crawl/releases/tag/0.32.1">Other formats</a></center>
                                <center><a href="#source">See Git Instructions Below</a></td></center></tr>
             <tr><th scope="row">Past Releases</th>
-                <td colspan="2"><center><a href="release/?C=N;O=D">Releases Folder</a></center></td></tr>
+                <td colspan="2"><center><a href="https://crawl.develz.org/release/?C=N;O=D">Releases Folder</a></center></td></tr>
             <tr><th scope="row">Development Builds</th>
-                <td colspan="2"><center><a href="trunk/">Trunk Builds Page</a></center></td></tr>
+                <td colspan="2"><center><a href="https://crawl.develz.org/trunk/">Trunk Builds Page</a></center></td></tr>
      </tbody>
     </center>
 </table>
@@ -64,6 +64,7 @@ sudo apt-get install crawl
 # install tiles version
 sudo apt-get install crawl-tiles</pre>
 
+<a name="source"></a>
 <h2>Source Code</h2>
 <p>
                         To compile DCSS yourself, you can clone the
