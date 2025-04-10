@@ -1,6 +1,6 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
-<script src="/dungeoncrawl/server.js"></script>
+<script type="text/javascript" src="/dungeoncrawl/server.js"></script>
 
 <h2 style="color:orange">Closest Dungeon Crawl WebTiles server</h2>
 <p>Select the option to allow this page to determine your location</p>
