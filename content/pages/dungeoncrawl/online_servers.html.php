@@ -1,6 +1,6 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
-<h1 style="color:orange">Online WebTiles servers</h1>
+<h1 style="color:orange">Online Dungeon Crawl servers</h1>
 
 <h2>Click the botton to determine the closest Dungeon Crawl server to your location:</h2>
 <center><button class="btn btn-success" onclick=" window.open('closest_server','_blank')"> Find closest Dungeon Crawl server </button></center>
