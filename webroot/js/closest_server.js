@@ -177,7 +177,7 @@ function failServerList() {
     $( "#play-list-message" ).html("<li>Couldn't get server list :(</li>");
 }
 function knownPosition(position) {
-    $.getJSON( "servers.json" ).done( function (servers) {
+    $.getJSON( "/servers.json" ).done( function (servers) {
         server = NearestPoint( position.coords.latitude, position.coords.longitude, servers );
         $( "#play-status" ).text("Playing on " + server["name"] + " located in " + server["location"] + "...");
         setTimeout( function() {
