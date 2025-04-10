@@ -177,7 +177,7 @@ function failServerList() {
     $( "#play-list-message" ).html("<li>Couldn't get server list :(</li>");
 }
 function knownPosition(position) {
-    $.getJSON( "/js/servers.json" ).done( function (servers) {
+    $.getJSON( "//js/servers.json" ).done( function (servers) {
         server = NearestPoint( position.coords.latitude, position.coords.longitude, servers );
         $( "#play-status" ).text("Playing on " + server["name"] + " located in " + server["location"] + "...");
         setTimeout( function() {
@@ -275,7 +275,7 @@ $(function() {
     }
     // play.html
     if ($( "#play-status" ).length) {
-        $.get( "/js/servers.json" ).done(handleServerList).fail(failServerList);
+        $.get( "//js/servers.json" ).done(handleServerList).fail(failServerList);
     }
     // watch.html
     if ($( "#livegames" ).length) {
