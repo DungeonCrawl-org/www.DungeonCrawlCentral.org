@@ -36,7 +36,7 @@
 
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                 <a href="https://cbro.berotato.org" target="_blank"><b>CBRO</b></a>:      Ohio, USA</summary>
+                 <a href="https://cbro.berotato.org" target="_blank"><b>CBRO</b></a>:      Ohio, USA - WebTiles & <a href="https://crawl.develz.org/wordpress/howto" target="_blank">Console</a></summary>
             <ul><li>Stone Soup v0.24 to v0.32 and unstable Trunk</li></ul>
 </details></td>
 </tr>
@@ -49,20 +49,20 @@
 
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://crawl.develz.org" target="_blank"><b>CDO</b></a>:        Nuremberg, Germany - <a href="https://crawl.develz.org/wordpress/howto" target="_blank">Console only</a></summary>
+                <a href="https://crawl.develz.org" target="_blank"><b>CDO</b></a>:        Nuremberg, Germany - <a href="https://crawl.develz.org/wordpress/howto" target="_blank">Console ONLY</a></summary>
             <ul><li>Stone Soup v0.2x to v0.32 and unstable Trunk</li></ul>
 </details></td>
 </tr>
 
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://crawl.xtahua.com" target="_blank"><b>CXC</b></a>:        Paris, France</summary>
+                <a href="https://crawl.xtahua.com" target="_blank"><b>CXC</b></a>:        Paris, France - WebTiles & <a href="https://crawl.develz.org/wordpress/howto" target="_blank">Console</a></summary>
             <ul><li>Stone Soup v0.25 to v0.32 and unstable Trunk</li></ul>
 </details></td>
 
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://underhound.eu:8080" target="_blank"><b>CUE</b></a>:      Falkenstein, Germany</summary>
+                <a href="https://underhound.eu:8080" target="_blank"><b>CUE</b></a>:      Falkenstein, Germany - Webtiles & <a href="https://crawl.develz.org/wordpress/howto" target="_blank">Console</a></summary>
             <ul><li>bcrawl</li>
                 <li>Stone Soup v0.10 to v0.32 and unstable Trunk</li>
             </ul>
@@ -71,7 +71,7 @@
 
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://crawl.nemelex.cards" target="_blank"><b>CNC</b></a>:     Gyeonggi, Korea</summary>
+                <a href="https://crawl.nemelex.cards" target="_blank"><b>CNC</b></a>:     Gyeonggi, Korea - WebTiles & <a href="https://crawl.develz.org/wordpress/howto" target="_blank">Console</a></summary>
             <ul><li>bcrawl</li>
                 <li>bcadren</li>
                 <li>stoatsoup</li>
@@ -81,14 +81,14 @@
 
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="http://lazy-life.ddo.jp:8080/#lobby" target="_blank"><b>LLD</b></a>:   Tokyo, Japan</summary>
+                <a href="http://lazy-life.ddo.jp:8080/#lobby" target="_blank"><b>LLD</b></a>:   Tokyo, Japan - WebTiles ONLY</summary>
             <ul><li>Stone Soup v.32 only</li></ul>
 </details></td>
 </tr>
 
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://crawl.project357.org" target="_blank"><b>CPO</b></a>:    Sydney, Australia</summary>
+                <a href="https://crawl.project357.org" target="_blank"><b>CPO</b></a>:    Sydney, Australia - WebTiles ONLY</summary>
             <ul><li>stoatsoup</li>
                 <li>Stone Soup v0.25 to v.32 and unstable Trunk</li>
             </ul>
