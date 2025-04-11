@@ -4,11 +4,9 @@
 		<div class="dropdown-content" style="left:0;">
 			<a href="/dungeoncrawl">Dungeon Crawl Central website</a>
 			<a href="https://discord.gg/gMnE5JFcB7" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Dungeon Crawl community discord server</a>
-			<a href="/dungeoncrawl/online_servers"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Play online on a Webtiles server</a>
+			<a href="/dungeoncrawl/online_servers"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Play online on a Dungeon Crawl server</a>
 			<a href="/dungeoncrawl/download"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Download a Dungeon Crawl fork for offline play</a>
-			<a href="/dungeoncrawl/forks"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Dungeon Crawl forks details</a>
-			<a href="http://crawl.chaosforge.org/" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Dungeon Crawl Wiki</a>
-			<a href="https://tavern.dcss.io/" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Dungeon Crawl Tavern 2.0 dicussion forum</a>
+			<a href="/dungeoncrawl/forks"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; View Dungeon Crawl forks details</a>
 			<a href="https://www.crawlcosplay.org/">Crawl Cosplay (CC) website</a>
 			<a href="https://discord.gg/pW7nqC8Wu3" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Crawl Cosplay 2.0 community discord server</a>
 		</div>
