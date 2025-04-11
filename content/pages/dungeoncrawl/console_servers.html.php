@@ -47,14 +47,13 @@
 </ul>
 <h1 id="connecting">Connecting to console servers</h1>
 <p>To play in non-graphical mode on one of these servers you need a program to do <em>SSH</em>. The programs are available in many different forms and commonly used to log into a remote server and receive a shell. Using SSH is the preferred method because it’s usually faster and, especially if your delay to a server is high, its compression feature is worth it.</p>
-<p>Connecting to one of the servers mentioned above presents you with a menu to register your character’s name and then lets you choose the game you would like to play, even modify your game configuration or backup your save-game.</p>
 <p>The next paragraphs explain in more detail how to play non-graphical mode online via SSH.</p>
 <h2>On Windows-based operating systems</h2>
 <p>We suggest to download the open-source program called <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/">PuTTY</a> or its feature-enhanced sister <a href="http://haanstra.eu/putty/">PuTTYtray</a>, both capable of doing SSH connections.</p>
 <p>Once Putty starts up you will see a configuration dialog. Simply put in the host name of the server you desire to play on and choose the SSH connection type.</p>
-<div id="attachment_1164" class="wp-caption alignnone" style="width: 466px"><img class="size-full wp-image-1164     " title="Putty Session CAO" src="./How to play Online « Dungeon Crawl Stone Soup_files/putty_session.png" alt="" width="456" height="126"><p class="wp-caption-text">Connect via SSH to CAO. Username and Password: joshua</p></div>
+<div id="attachment_1164" class="wp-caption alignnone" style="width: 466px"><img class="size-full wp-image-1164     " title="Putty Session CAO" src="/img/ssh/putty_session.png" alt="" width="456" height="126"><p class="wp-caption-text">Connect via SSH to CAO. Username and Password: joshua</p></div>
 <p>If using an SSH key, you must go to <strong>Connection </strong>&gt; <strong>SSH </strong>&gt; <strong>Auth</strong>&nbsp;and set the private key file:</p>
-<div id="attachment_1160" class="wp-caption alignnone" style="width: 466px"><img class="size-full wp-image-1160  " title="Putty SSH-Key Setting" src="./How to play Online « Dungeon Crawl Stone Soup_files/putty_cao_key.png" alt="" width="456" height="107"><p class="wp-caption-text">Setting SSH-Key in Putty</p></div>
+<div id="attachment_1160" class="wp-caption alignnone" style="width: 466px"><img class="size-full wp-image-1160  " title="Putty SSH-Key Setting" src="/img/ssh/putty_cao_key.png" alt="" width="456" height="107"><p class="wp-caption-text">Setting SSH-Key in Putty</p></div>
 <p>Click <strong>Open</strong>&nbsp;at the bottom to start the connection. If not using a key, you’ll be prompted for a username and password.</p>
 <p>In the <strong>Session</strong>&nbsp;configuration, you can enter a session name in the box under Saved Sessions and click <strong>Save</strong>&nbsp;to store your session information for future connections. The next time you start PuTTY, selection your session and click the <strong>Load</strong>&nbsp;button to load your session data before clicking <strong>Open</strong>.</p>
 <p><span style="font-size: 1.17em;">Other recommended settings</span></p>
