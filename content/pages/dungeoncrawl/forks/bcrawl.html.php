@@ -8,4 +8,4 @@
 
 <p>Download at: <a href="https://github.com/b-crawl/bcrawl/releases" target="_blank">github.com/b-crawl/bcrawl/releases</p>
 
-<p>Stats pages for BCrawl: </p>
+<p>Stats pages for BCrawl: <a href="https://bcrawl.montres.org.uk/overview.html" target="_blank">bcrawl.montres.org.uk/overview.html</p>
