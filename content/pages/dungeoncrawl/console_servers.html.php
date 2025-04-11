@@ -45,10 +45,8 @@
 <li>Located in <strong>Paris, France</strong>.</li>
 <li>Console play via SSH (port 22): username “crawl” – <em>SSH-key required</em> (<a href="https://crawl.akrasiac.org/cao_key.ppk" target="_blank">PuTTY key</a> <a href="https://crawl.akrasiac.org/cao_key" target="_blank">Unix key</a>).</li>
 </ul>
-<p>Server statistics, high-scores and milestones are gathered in a single place, however separately categorized by <a href="http://crawl.akrasiac.org/scoring-stable/overview.html">stable/released only</a> or <a href="http://crawl.akrasiac.org/scoring/overview.html">all stable/released &amp; alpha/development</a> games.</p>
-<h1 id="connecting">Connecting to DCSS servers</h1>
+<h1 id="connecting">Connecting to console servers</h1>
 <p>To play in non-graphical mode on one of these servers you need a program to do <em>SSH</em>. The programs are available in many different forms and commonly used to log into a remote server and receive a shell. Using SSH is the preferred method because it’s usually faster and, especially if your delay to a server is high, its compression feature is worth it.</p>
-<p>To play in graphical mode you just need to point your web browser at <a href="http://crawl.develz.org/play.htm">WebTiles</a>, which requires a moderately new web browser with WebSocket and JavaScript support enabled.</p>
 <p>Connecting to one of the servers mentioned above presents you with a menu to register your character’s name and then lets you choose the game you would like to play, even modify your game configuration or backup your save-game.</p>
 <p>The next paragraphs explain in more detail how to play non-graphical mode online via SSH.</p>
 <h2>On Windows-based operating systems</h2>
