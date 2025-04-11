@@ -30,7 +30,7 @@
 
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://crawl.akrasiac.org:8443" target="_blank"><b>CAO</b></a>: Arizona, USA</summary>
+                <a href="https://crawl.akrasiac.org:8443" target="_blank"><b>CAO</b></a>: Arizona, USA - Webtiles & <a href="https://crawl.develz.org/wordpress/howto" target="_blank">Console</a></summary>
             <ul><li>Stone Soup v0.11 to v0.32 and unstable Trunk</li></ul>
 </details></td>
 
