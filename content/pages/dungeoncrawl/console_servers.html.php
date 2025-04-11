@@ -66,14 +66,14 @@
 </strong></p>
 <ul>
 <li><strong>Terminal</strong> &gt; <strong>Keyboard</strong>&gt; Initial state of numeric keypad &gt;
-<p></p><div id="attachment_1162" class="wp-caption alignnone" style="width: 466px"><img class="size-full wp-image-1162   " title="Putty Keyboard Nethack" src="./How to play Online « Dungeon Crawl Stone Soup_files/putty_keyboard_nethack.png" alt="Setting Numeric Keypad to Nethack" width="456" height="97"><p class="wp-caption-text">Setting Numeric Keypad to Nethack</p></div></li>
+<p></p><div id="attachment_1162" class="wp-caption alignnone" style="width: 466px"><img class="size-full wp-image-1162   " title="Putty Keyboard Nethack" src="/img/ssh/putty_keyboard_nethack.png" alt="Setting Numeric Keypad to Nethack" width="456" height="97"><p class="wp-caption-text">Setting Numeric Keypad to Nethack</p></div></li>
 <li><strong>Terminal</strong> &gt; <strong>Features</strong>&gt; Advanced terminal features &gt;
-<p></p><div id="attachment_1161" class="wp-caption alignnone" style="width: 466px"><img class="size-full wp-image-1161  " title="Putty Keyboard Application Keypad" src="./How to play Online « Dungeon Crawl Stone Soup_files/putty_keyboard_application_keypad.png" alt="Disable Application Keypad Mode" width="456" height="102"><p class="wp-caption-text">Disable Application Keypad Mode</p></div></li>
+<p></p><div id="attachment_1161" class="wp-caption alignnone" style="width: 466px"><img class="size-full wp-image-1161  " title="Putty Keyboard Application Keypad" src="/img/ssh/putty_keyboard_application_keypad.png" alt="Disable Application Keypad Mode" width="456" height="102"><p class="wp-caption-text">Disable Application Keypad Mode</p></div></li>
 </ul>
 <p>You may want to change the effect of the mouse buttons to prevent accidentally pasting your clipboard into the game:</p>
 <ul>
 <li><strong>Window </strong>&gt; <strong>Selection</strong>&gt; Action of mouse buttons &gt;
-<p></p><div class="wp-caption alignnone" style="width: 466px"><img title="Windows-style Mouse Buttons" src="./How to play Online « Dungeon Crawl Stone Soup_files/putty_mouse_control.png" alt="Windows-style Mouse Buttons" width="456" height="84"><p class="wp-caption-text">Windows-style Mouse Buttons</p></div></li>
+<p></p><div class="wp-caption alignnone" style="width: 466px"><img title="Windows-style Mouse Buttons" src="/img/ssh/putty_mouse_control.png" alt="Windows-style Mouse Buttons" width="456" height="84"><p class="wp-caption-text">Windows-style Mouse Buttons</p></div></li>
 </ul>
 <p>Otherwise, the default configuration of Putty is quite OK. You may want to choose a different font like “Lucida Console”, “Consolas”, “Courier New” or “<a href="http://dejavu-fonts.org/wiki/index.php?title=Main_Page">Dejavu Mono</a>” by going to&nbsp;<strong>Window </strong>&gt; <strong>Appearence</strong>&nbsp; and clicking the <strong>Change</strong>&nbsp;button under Font settings.</p>
 <h2>On Unix-based operating systems</h2>
