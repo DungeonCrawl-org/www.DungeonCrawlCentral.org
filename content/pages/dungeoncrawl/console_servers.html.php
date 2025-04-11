@@ -1,100 +1,49 @@
 <?php $this->layout = 'dungeoncrawl'; ?>
 
-<h1 id="servers">The Servers</h1>
-<p>There are a number of servers offering online play – each located in a different part of the world, often serving more than only the latest released version of Dungeon Crawl Stone Soup. You should choose a server closest to your location to have a fast connection with as little delay as possible. Accounts are not shared between servers.</p>
-<p>Have a look at the <a href="http://crawl.develz.org/wordpress/player-status">Online Player Status</a> page to see who is playing online.<br>
+<h1 id="servers">Console Servers</h1>
 <a name="cdi"></a></p>
-<h2>crawl.dcss.io (WebTiles, Console)</h2>
+<h2>crawl.dcss.io aka CDI</h2>
 <ul>
-<li>Also known as <strong><a href="https://crawl.dcss.io/" target="_blank">CDI</a></strong>.</li>
-<li>Located in <strong>New York, United States of America</strong>.</li>
-<li>It serves the latest <strong>released</strong> and a number of <strong>previous</strong> versions of Dungeon Crawl Stone Soup.</li>
-<li>It also serves the latest development version and is updated every 15 minutes.</li>
+<li>Located in <strong>New York, USA</strong>.</li>
 <li>Console play via SSH (port 22): username “crawl” – required&nbsp;<em>SSH-key</em> (<a href="https://crawl.dcss.io/crawl/cao_key.ppk" target="_blank">PuTTY key</a> <a href="https://crawl.dcss.io/crawl/cao_key" target="_blank">Unix key</a>).</li>
-<li>Graphical play via WebSocket: <a href="https://crawl.dcss.io/" target="_blank">WebTiles</a></li>
 </ul>
 <p><a name="cdo"></a></p>
-<h2>crawl.develz.org (Console)</h2>
+<h2>crawl.develz.org aka CDO</h2>
 <ul>
-<li>Also known as <strong><a href="http://crawl.develz.org/" target="_blank">CDO</a></strong>.</li>
-<li>Located in <strong>Nuremberg, Germany, Europe</strong>.</li>
-<li>It serves the latest <strong>released</strong> and a number of <strong>previous</strong> versions of Dungeon Crawl Stone Soup.</li>
-<li>It also serves the latest development version and is updated daily.</li>
-<li>It additionally serves the last beta of the original Dungeon Crawl.</li>
+<li>Located in <strong>Nuremberg, Germany</strong>.</li>
 <li>Console play via SSH (port 22): username “crawl” – <em>SSH-key required</em> (<a href="http://crawl.develz.org/cao_key.ppk" target="_blank">PuTTY key</a> <a href="http://crawl.develz.org/cao_key" target="_blank">Unix key</a>).</li>
-<li>WebTiles is not available.</li>
 </ul>
 <p><a name="cao"></a></p>
-<h2>crawl.akrasiac.org (WebTiles, Console)</h2>
+<h2>crawl.akrasiac.org aka CAO</h2>
 <ul>
-<li>Also known as <strong><a href="http://crawl.akrasiac.org/" target="_blank">CAO</a></strong>.</li>
-<li>Located in <strong>Arizona, United States of America</strong>.</li>
-<li>It serves the latest <strong>released</strong> and a number of <strong>previous</strong> versions of Dungeon Crawl Stone Soup.</li>
-<li>It also serves the latest development version and is updated daily.</li>
+<li>Located in <strong>Arizona, USA</strong>.</li>
 <li>Console play via SSH (port 22): username “joshua” – password “joshua” or <em>SSH-key</em> (<a href="https://crawl.akrasiac.org/cao_key.ppk" target="_blank">PuTTY key</a> <a href="https://crawl.akrasiac.org/cao_key" target="_blank">Unix key</a>).</li>
-<li>Graphical play via WebSocket: <a href="https://crawl.akrasiac.org:8443/" target="_blank">WebTiles</a></li>
 </ul>
 <p><a name="cdo"></a></p>
-<h2>underhound.eu (WebTiles, Console)</h2>
+<h2>underhound.eu aka CUE</h2>
 <ul>
-<li>Also known as <strong><a href="http://underhound.eu:8080/" target="_blank">CUE</a></strong> (formerly known as CLAN).</li>
 <li>Located in <strong>Amsterdam, Netherlands, Europe</strong>.</li>
-<li>It serves the latest <strong>released</strong> and the <strong>previous</strong> version of Dungeon Crawl Stone Soup.</li>
-<li>It also serves the latest development version and is updated daily.</li>
 <li>Console play via SSH (port 23): username “terminal” – password “terminal” or <em>SSH-key</em> (<a href="https://crawl.akrasiac.org/cao_key.ppk" target="_blank">PuTTY key</a> <a href="https://crawl.akrasiac.org/cao_key" target="_blank">Unix key</a>).</li>
-<li>Graphical play via WebSocket: <a href="http://underhound.eu:8080/" target="_blank">WebTiles</a></li>
 </ul>
 <p><a name="cbro"></a></p>
-<h2>cbro.beRotato.org (WebTiles, Console)</h2>
+<h2>cbro.beRotato.org aka CBRO</h2>
 <ul>
-<li>Also known as <strong><a title="CBRO" href="https://cbro.berotato.org:8443/" target="_blank">CBR2</a></strong>.</li>
 <li>Located in <strong>Ohio, USA</strong>.</li>
-<li>It serves the latest <strong>released</strong> version of Dungeon Crawl Stone Soup.</li>
-<li>It also serves the latest development version and updates daily at around 0710 UTC.</li>
 <li>Console play via SSH (port 22): username “crawler” – <em>SSH-key required</em> (<a href="https://cbro.berotato.org/keys/cbro_key.ppk" target="_blank">PuTTY key</a> <a href="https://cbro.berotato.org/keys/cbro_key" target="_blank">Unix key</a>).</li>
-<li>Graphical play via WebSocket: <a href="https://cbro.berotato.org:8443/" target="_blank">WebTiles</a></li>
 <li><a href="https://cbro.berotato.org/morgue/" target="_blank">Morgues</a>, <a href="https://cbro.berotato.org/rcfiles/" target="_blank">rc files</a>, and so on are available online.</li>
 <li>ZureaL can be reached in Libera IRC via ‘!tell ZureaL’ in #crawl, or email: zureal@gmail.com</li>
 </ul>
-<p><a name="lld"></a></p>
-<h2>lazy-life.ddo.jp (WebTiles)</h2>
+<p><a name="cnc"></a></p>
+<h2>crawl.nemelex.cards aka CNC</h2>
 <ul>
-<li>Also known as <a title="LLD" href="http://lazy-life.ddo.jp/" target="_blank"><strong>LLD</strong></a>.</li>
-<li>Located in <strong>Japan</strong>.</li>
-<li>It serves the latest <strong>released</strong> and a number of <strong>previous</strong> versions of Dungeon Crawl Stone Soup.</li>
-<li>It also serves the latest development version and is very regularly updated.</li>
-<li>Console play is not supported.</li>
-<li>Graphical play via WebSocket: <a href="http://lazy-life.ddo.jp:8080/" target="_blank">WebTiles</a></li>
-</ul>
-<p><a name="cwz"></a></p>
-<h2>crawl.nemelex.cards (WebTiles)</h2>
-<ul>
-<li>Also known as <a title="CNC" href="https://crawl.nemelex.cards/#lobby" target="_blank"><strong>CNC</strong></a>.</li>
 <li>Located in <strong>Gyeonggi, South Korea</strong>.</li>
-<li>It serves the latest <strong>released</strong> and a number of <strong>previous</strong> versions of Dungeon Crawl Stone Soup.</li>
-<li>It also serves the latest development version and is updated every 15 minutes.</li>
 <li>Console play via SSH (port 1326): username “nemelex” – password “xobeh” or <em>SSH-key</em> (<a href="https://crawl.akrasiac.org/cao_key.ppk" target="_blank">PuTTY key</a> <a href="https://crawl.akrasiac.org/cao_key" target="_blank">Unix key</a>).</li>
-<li>Graphical play via WebSocket: <a href="https://crawl.nemelex.cards/" target="_blank">WebTiles</a></li>
 </ul>
 <p><a name="cxc"></a></p>
-<h2>crawl.xtahua.com (WebTiles, Console)</h2>
+<h2>crawl.xtahua.com aka CXC</h2>
 <ul>
-<li>Also known as <a title="CXC" href="https://crawl.xtahua.com/" target="_blank"><strong>CXC</strong></a>.</li>
-<li>Located in <strong>France, Europe</strong>.</li>
-<li>It serves the latest <strong>released</strong> and the <strong>previous</strong> version of Dungeon Crawl Stone Soup.</li>
-<li>It also serves the latest development version and is updated daily.</li>
+<li>Located in <strong>Paris, France</strong>.</li>
 <li>Console play via SSH (port 22): username “crawl” – <em>SSH-key required</em> (<a href="https://crawl.akrasiac.org/cao_key.ppk" target="_blank">PuTTY key</a> <a href="https://crawl.akrasiac.org/cao_key" target="_blank">Unix key</a>).</li>
-<li>Graphical play via WebSocket: <a href="https://crawl.xtahua.com/" target="_blank">WebTiles</a></li>
-</ul>
-<p><a name="cpo"></a></p>
-<h2>crawl.project357.org (WebTiles)</h2>
-<ul>
-<li>Also known as <a title="CPO" href="https://crawl.project357.org/" target="_blank"><strong>CPO</strong></a>.</li>
-<li>Located in <strong>Sydney, Australia</strong>.</li>
-<li>It serves the latest <strong>released</strong> version of Dungeon Crawl Stone Soup.</li>
-<li>It also serves the latest development version and is updated every 15 minutes.</li>
-<li>Console play is not supported.</li>
-<li>Graphical play via WebSocket: <a href="https://crawl.project357.org/" target="_blank">WebTiles</a></li>
 </ul>
 <p>Server statistics, high-scores and milestones are gathered in a single place, however separately categorized by <a href="http://crawl.akrasiac.org/scoring-stable/overview.html">stable/released only</a> or <a href="http://crawl.akrasiac.org/scoring/overview.html">all stable/released &amp; alpha/development</a> games.</p>
 <h1 id="connecting">Connecting to DCSS servers</h1>
