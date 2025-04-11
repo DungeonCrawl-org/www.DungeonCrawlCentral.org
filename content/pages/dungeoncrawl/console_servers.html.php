@@ -60,7 +60,7 @@
 <p>Here are some other settings we recommend changing from the default. The first is important to properly enable extended console colors:</p>
 <ul>
 <li><strong>Data</strong>&nbsp;&gt; Terminal-type string &gt; set value to xterm-256color
-<p></p><div id="attachment_5109" class="wp-caption alignnone" style="width: 471px"><img class="size-full wp-image-5109" title="Set Terminal-type string" src="./How to play Online « Dungeon Crawl Stone Soup_files/putty-xterm1.png" alt="" width="461" height="128"><p class="wp-caption-text">Set Terminal-type string to xterm-256color</p></div></li>
+<p></p><div id="attachment_5109" class="wp-caption alignnone" style="width: 471px"><img class="size-full wp-image-5109" title="Set Terminal-type string" src="/img/ssh/putty-xterm1.png" alt="" width="461" height="128"><p class="wp-caption-text">Set Terminal-type string to xterm-256color</p></div></li>
 </ul>
 <p>If you intend to play with the numeric keypad there are 2 important settings you should enable in Putty to have proper controlling:<strong><br>
 </strong></p>
