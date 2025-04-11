@@ -43,7 +43,7 @@
 
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://crawl.dcss.io" target="_blank"><b>CDI</b></a>:           New York, USA</summary>
+                <a href="https://crawl.dcss.io" target="_blank"><b>CDI</b></a>:           New York, USA - WebTiles & <a href="https://crawl.develz.org/wordpress/howto" target="_blank">Console</a></summary>
             <ul><li>Stone Soup v0.30 to v0.32 and unstable Trunk</li></ul>
 </details></td>
 
