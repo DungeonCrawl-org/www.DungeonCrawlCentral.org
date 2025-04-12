@@ -29,7 +29,7 @@
 </details></p>
 <details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="/dungeoncrawl/forks/stonesoup"><b>Stone Soup</b></a> (DCSS)</summary>
+                <a href="/dungeoncrawl/forks/stone_soup"><b>Stone Soup</b></a> (DCSS)</summary>
             <ul><li><a href="http://cco.crawlcosplay.org" target="_blank">CCO</a>:         Toronto, Canada</li>
                 <li><a href="https://crawl.yiuf.org/" target="_blank">CYO</a>:             Seattle, USA</li>
                 <li><a href="https://crawl.akrasiac.org:8443" target="_blank">CAO</a>:     Arizona, USA</li>
