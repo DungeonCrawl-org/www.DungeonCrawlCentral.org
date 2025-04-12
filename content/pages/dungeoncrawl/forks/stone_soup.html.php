@@ -9,7 +9,6 @@
 
 <p>Web 1.0 server statistics, high-scores and milestones:<a href="http://crawl.akrasiac.org/scoring/overview.html" target="_blank">all stable/released &amp; alpha/development</a> games.</p>
 
-<br>
-<h4>Other DCSS websites</h4>
+<h4>Other DCSS websites:</h4>
 <p><a href="http://crawl.chaosforge.org/" target="_blank">Dungeon Crawl Stone Soup (DCSS) Wiki</a></p>
 <p><a href="https://tavern.dcss.io/" target="_blank">Dungeon Crawl Stone Soup (DCSS) Tavern 2.0 dicussion forum</a></p>
