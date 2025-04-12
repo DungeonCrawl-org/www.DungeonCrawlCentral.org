@@ -4,7 +4,7 @@
 
 <h2>Dungeon Crawl: Stone Soup (DCSS): a Dungeon Crawl fork based on <a href="http://dungeoncrawl.org/" target="_blank">Linley's Dungeon Crawl</a></h2>
 
-<p>Modern looking stats page for DCSS: <a href="http://dcss-stats.com/" target="_blank">
+<p>Modern looking stats page for DCSS: <a href="http://dcss-stats.com/" target="_blank">dcss-stats.com</a></p>
 
 <p>Server statistics, high-scores and milestones are gathered in a single place, however separately categorized by:</p>
 <p> - <a href="http://crawl.akrasiac.org/scoring-stable/overview.html" target="_blank">stable/released only</a> or </p>
