@@ -6,9 +6,9 @@
 
 <p>Modern looking stats page for DCSS: <a href="http://dcss-stats.com/" target="_blank">dcss-stats.com</a></p>
 
-<p>Server statistics, high-scores and milestones are gathered in a single place, however separately categorized by:</p>
-<p> - <a href="http://crawl.akrasiac.org/scoring-stable/overview.html" target="_blank">stable/released only</a> or </p>
+<p>Web 1.0 server statistics, high-scores and milestones:</p>
 <p> - <a href="http://crawl.akrasiac.org/scoring/overview.html" target="_blank">all stable/released &amp; alpha/development</a> games.</p>
 
+<br>
 <p><a href="http://crawl.chaosforge.org/" target="_blank">Dungeon Crawl Stone Soup (DCSS) Wiki</a></p>
 <p><a href="https://tavern.dcss.io/" target="_blank">Dungeon Crawl Stone Soup (DCSS) Tavern 2.0 dicussion forum</a></p>
