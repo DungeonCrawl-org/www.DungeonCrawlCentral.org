@@ -10,8 +10,9 @@
 <p>Web 1.0 server statistics, high-scores and milestones:<a href="http://crawl.akrasiac.org/scoring/overview.html" target="_blank">all stable/released &amp; alpha/development</a> games.</p>
 
 <h4>GitHub Repo:</h4>
-<a href="https://github.com/crawl/crawl" target="_blank">/crawl/crawl</a>
-
+<p><a href="https://github.com/crawl/crawl" target="_blank">/crawl/crawl</a></p>
+<p><a href="https://github.com/crawl/crawl/issues" target="_blank">Bug Reports</a></p>
+     
 <h4>Other DCSS websites:</h4>
 <p><a href="http://crawl.chaosforge.org/" target="_blank">Dungeon Crawl Stone Soup (DCSS) Wiki</a></p>
 <p><a href="https://tavern.dcss.io/" target="_blank">Dungeon Crawl Stone Soup (DCSS) Tavern 2.0 dicussion forum</a></p>
