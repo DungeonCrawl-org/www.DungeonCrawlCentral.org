@@ -16,5 +16,5 @@
 <ul><li><a href="https://discord.gg/gMnE5JFcB7" target="_blank">Dungeon Crawl community</a> discord server</li>
     <li><a href="https://www.crawlcosplay.org/">Crawl Cosplay</a> website</li>
     <li><a href="https://discord.gg/JYJf7ndQJK" target="_blank">Crawl Cosplay 2.0 community</a> discord server</li>
-    <li><a href="http://dungeoncrawl.org/" target="_blank">Linley's Dungeon Crawl</a>: the orginal game!</li></li>
+    <li><a href="http://dungeoncrawl.org/" target="_blank">Linley's Dungeon Crawl</a>: the orginal game!</li>
 </ul>
