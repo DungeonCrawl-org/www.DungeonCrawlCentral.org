@@ -9,7 +9,7 @@
 <table>
 <tr><td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="http://cco.crawlcosplay.org" target="_blank"><b>CCO</b></a>:     Toronto, Canada - <a href="http://cco.crawlcosplay.org" target="_blank">WebTiles</a></summary>
+                <a href="http://cco.crawlcosplay.org" target="_blank"><b>CCO</b></a>:     Toronto, Canada - <a href="http://cco.crawlcosplay.org" target="_blank">WebTiles</a> & Console (coming soon)</summary>
             <ul><li>bcrawl</li>
                 <li>bcadren</li>
                 <li>stoatsoup</li>
@@ -19,7 +19,7 @@
 
 <td><details open style="display:inline-block;">
         <summary style="cursor:pointer; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;">
-                <a href="https://crawl.yiuf.org/" target="_blank"><b>CYO</b></a>:     Seattle, USA -  <a href="https://crawl.yiuf.org/" target="_blank">Webtiles ONLY</a></summary>
+                <a href="https://crawl.yiuf.org/" target="_blank"><b>CYO</b></a>:     Seattle, USA -  <a href="https://crawl.yiuf.org/" target="_blank">Webtiles</a> & Console (TBD)</summary>
             <ul><li>bcrawl</li>
                 <li>bcadren</li>
                 <li>stoatsoup</li>
