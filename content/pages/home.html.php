@@ -7,9 +7,9 @@
 <h1>Orb of Zot</h1>
 <center><img src="/img/orb_of_zot.gif"></center>
 
-<h2><center><a href="/dungeoncrawl/online_servers">Play Online</a>
-            <img src="/img/portals/enter_elf.png"> <a href="/dungeoncrawl/download">Download DC forks offline versions</a>
-            <img src="/img/portals/desolation_portal.png"> <a href="/dungeoncrawl/forks">Details of DC forks</a></center></h2>
+<h2><center><a href="/online_servers">Play Online</a>
+            <img src="/img/portals/enter_elf.png"> <a href="/download">Download DC forks offline versions</a>
+            <img src="/img/portals/desolation_portal.png"> <a href="/forks">Details of DC forks</a></center></h2>
 <br>
 <p><img src="/img/HR-right.png"></p>
 <h2>Other links</h2>
