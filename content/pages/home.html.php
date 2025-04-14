@@ -1,4 +1,5 @@
-<?php $this->layout = 'default'; ?>
+/*<?php $this->layout = 'default'; ?>
+*/
 <h2><center>Welcome to the Dungeon Crawl Central website;</center></h2>
 <h4><center><img src="/img/portals/enter_temple.png"> your repository of all things related to Dungeon Crawl forks actively developed! <img src="/img/portals/bailey_portal.png"></center></h4>
 <br>
