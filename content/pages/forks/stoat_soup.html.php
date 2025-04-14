@@ -1,4 +1,4 @@
-<?php $this->layout = 'dungeoncrawl'; ?>
+<?php $this->layout = 'default'; ?>
 
 <h1 style="color:orange">Stoat Soup</h1>
 

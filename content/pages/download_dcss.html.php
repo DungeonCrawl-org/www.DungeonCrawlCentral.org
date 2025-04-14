@@ -1,4 +1,4 @@
-<?php $this->layout = 'dungeoncrawl'; ?>
+<?php $this->layout = 'default'; ?>
 
 <h1>Download the Stone Soup (DCSS) fork</h1>
 <h2><center>Latest Stable Version: <a href="https://github.com/crawl/crawl/releases/tag/0.32.1" target="_blank"><strong>0.32.1</strong></a></center></h2>

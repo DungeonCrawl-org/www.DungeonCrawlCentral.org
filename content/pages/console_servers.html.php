@@ -1,4 +1,4 @@
-<?php $this->layout = 'dungeoncrawl'; ?>
+<?php $this->layout = 'default'; ?>
 
 <h1 id="servers">Console Servers</h1>
 <a name="cdi"></a></p>
