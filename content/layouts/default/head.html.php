@@ -1,19 +1,50 @@
 <!DOCTYPE html>
-<?php echo $this->part('head_localisation'); ?>
-
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title><?=$page_title ?? 'Dungeon Crawl Cosplay - the 5-in-1 website'?></title>
-    <link rel="icon" href="/img/cc_stone_soup_icon-444x370.png" type="image/png">
+    <title><?=$page_title ?? 'Dungeon Crawl Central'?></title>
+    <link rel="icon" href="/img/feat-dg_entrance.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
-    <link rel="stylesheet" href="/css/cosplay.css?v=<?=time()?>">
+    <link rel="stylesheet" href="/css/dungeoncrawl.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
-#table_for_float_image {
-  border-collapse: separate;
-  border-spacing: 15px 50px;
+
+#dlTable {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#dlTable td, #dlTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#dlTable tr:nth-child(even){background-color: Dark Gray}
+
+#dltable tr:hover {background-color: #ddd;}
+
+#dlTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: drak gray;
+  color: white;
+}
+
+
+div.score-sidebar-cca {
+    float: right;
+    clear: both;
+    text-align: right;
+    width: 575px;
+    padding: 0 2em 5em;
+}
+	
+.centerTable { 
+    margin: 0px auto; 
+    border: none;
 }
 	
 h1	{
@@ -23,7 +54,7 @@ h1	{
 
 .dropbtn {
   background-color: #7D623C;
-  color: black;
+  color: white;
   padding: 12px;
   font-size: 16px;
   border: none;
@@ -40,8 +71,8 @@ h1	{
   position: absolute;
   right: 0;
   background-color: #7D623C;
-  min-width: 400px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  min-width: 500px;
+  box-shadow: 0px 8px 12px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
@@ -64,7 +95,7 @@ h1	{
         $meta += [
             'width' => 256,
             'height' => 256,
-            'alt' => "Crawl Cosplay server",
+            'alt' => "Dungeon Crawl",
             'type' => "image/png",
         ];
         if (strpos($meta['filename'], 'https') === 0) {
