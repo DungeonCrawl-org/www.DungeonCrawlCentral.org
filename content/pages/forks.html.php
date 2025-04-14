@@ -1,5 +1,3 @@
-<?php $this->layout = 'default'; ?>
-
 <h2 style="color:orange">Dungeon Crawl actively developped forks</h2>
 
 <h4>Click on the fork name's link to get more info on that fork.</h4>

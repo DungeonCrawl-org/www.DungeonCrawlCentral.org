@@ -1,5 +1,3 @@
-<?php $this->layout = 'default'; ?>
-
 <h1 style="color:orange">BCadren</h1>
 
 <h2>BCadren: a Dungeon Crawl fork based on Stone Soup fork (DCSS) v0.2x</h2>

@@ -1,5 +1,3 @@
-<?php $this->layout = 'default'; ?>
-
 <h1 id="servers">Console Servers</h1>
 <a name="cdi"></a></p>
 <h2>crawl.dcss.io aka CDI</h2>

@@ -1,5 +1,3 @@
-<?php $this->layout = 'default'; ?>
-
 <h1 style="color:orange">Stoat Soup</h1>
 
 <h2>Stoat Soup: a Dungeon Crawl fork based on Stone Soup fork (DCSS) v0.2x</h2>

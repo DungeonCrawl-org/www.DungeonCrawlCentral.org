@@ -1,5 +1,3 @@
-<?php $this->layout = 'default'; ?>
-
 <h1 style="color:orange">Online Dungeon Crawl servers</h1>
 
 <h2>Click the botton to determine the closest Dungeon Crawl server from your location:</h2>

@@ -1,5 +1,3 @@
-<?php $this->layout = 'default'; ?>
-
 <h1 style="color:orange">Stone Soup</h1>
 
 <h2>Dungeon Crawl: Stone Soup (DCSS): a Dungeon Crawl fork based on <a href="http://dungeoncrawl.org/" target="_blank">Linley's Dungeon Crawl</a></h2>
