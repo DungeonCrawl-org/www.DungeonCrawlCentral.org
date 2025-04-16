@@ -124,9 +124,9 @@ h1	{
 		<div class="dropdown-content" style="left:0;">
 			<a href="/">Dungeon Crawl Central website</a>
 			<a href="https://discord.gg/gMnE5JFcB7" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Dungeon Crawl community discord server</a>
-			<a href="/online_servers"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Play online on a Dungeon Crawl server</a>
-			<a href="/download"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Download a Dungeon Crawl fork for offline play</a>
-			<a href="/forks"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; View Dungeon Crawl forks details</a>
+			<a href="/online_servers.html"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Play online on a Dungeon Crawl server</a>
+			<a href="/download.html"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Download a Dungeon Crawl fork for offline play</a>
+			<a href="/forks.html"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; View Dungeon Crawl forks details</a>
 			<a href="https://www.reddit.com/r/dungeoncrawl/" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Dungeon Crawl subreddit</a>
 			<a href="https://www.crawlcosplay.org/">Crawl Cosplay (CC) website</a>
 			<a href="https://discord.gg/pW7nqC8Wu3" target="_blank"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&#8627; Crawl Cosplay 2.0 community discord server</a>
@@ -157,8 +157,8 @@ h1	{
 <center><img src="/img/orb_of_zot.gif"></center>
 
 <h2><center><a href="/online_servers">Play Online</a>
-            <img src="/img/portals/enter_elf.png"> <a href="/download">Download DC forks offline versions</a>
-            <img src="/img/portals/desolation_portal.png"> <a href="/forks">Details of DC forks</a></center></h2>
+            <img src="/img/portals/enter_elf.png"> <a href="/download.html">Download DC forks offline versions</a>
+            <img src="/img/portals/desolation_portal.png"> <a href="/forks.html">Details of DC forks</a></center></h2>
 <br>
 <p><img src="/img/HR-right.png"></p>
 <h2>Other links</h2>
