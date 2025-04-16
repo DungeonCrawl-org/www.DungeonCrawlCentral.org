@@ -5,7 +5,7 @@
     <title>Dungeon Crawl Central</title>
     <link rel="icon" href="/img/feat-dg_entrance.png" type="image/png">
     <!-- <link rel="stylesheet" 	href="/css/reset.css"> -->
-    <link rel="stylesheet" href="/css/dungeoncrawl.css?v=<?=time()?>">
+    <link rel="stylesheet" href="/css/admin.css?v=<?=time()?>">
     <!-- <link rel="stylesheet" href="https://crawl.develz.org/tournament/0.23/tourney-score.css"> -->
 
 <style>
