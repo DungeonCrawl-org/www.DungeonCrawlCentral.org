@@ -156,7 +156,7 @@ h1	{
 <h1>Orb of Zot</h1>
 <center><img src="/img/orb_of_zot.gif"></center>
 
-<h2><center><a href="/online_servers">Play Online</a>
+<h2><center><a href="/online_servers.html">Play Online</a>
             <img src="/img/portals/enter_elf.png"> <a href="/download.html">Download DC forks offline versions</a>
             <img src="/img/portals/desolation_portal.png"> <a href="/forks.html">Details of DC forks</a></center></h2>
 <br>
