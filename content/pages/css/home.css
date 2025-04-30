@@ -291,7 +291,7 @@ div.fineprint p {
 }
 .page_back {
     background: #000;
-    background-image: url("/img/backgrounds/bg_dungeon2_floor.png");
+    background-image: url("/img/backgrounds/bg_lair_floor.png");
     margin: 0;
     padding-top: 32px;
     padding-right: 32px;
@@ -300,13 +300,13 @@ div.fineprint p {
 }
 .page_floor {
     background: #ccc;
-    background-image: url("/img/backgrounds/bg_dungeon2_floor.png");
+    background-image: url("/img/backgrounds/bg_lair_floor.png");
     padding: 32px;
 }
 /* <div id="page_footer">&nbsp;
 </div> */
  div#page_footer {
-    background-image: url("/img/backgrounds/bg_dungeon2_floor.png");
+    background-image: url("/img/backgrounds/bg_lair_floor.png");
     margin: 0;
     padding: 0;
     height: 32px;
