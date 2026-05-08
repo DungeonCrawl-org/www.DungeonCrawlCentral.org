@@ -168,7 +168,7 @@ function handleServerList(servers) {
     $( "#play-list" ).empty();
     var arrayLength = servers.length;
     for (var i = 0; i < arrayLength; i++) {
-        $( "#play-list" ).append("<li><a href=\"" + servers[i]['url'] + "\">" + servers[i]['name'] + "</a>" + ": " + servers[i]['location'] "</li>");
+        $( "#play-list" ).append("<li>" + servers[i]['location'] + ": " + "<a href=\"" + servers[i]['url'] + "\">" + servers[i]['name'] + "</a>" + "</li>");
     }
     navigator.geolocation.getCurrentPosition(knownPosition, unknownPosition);
 }
